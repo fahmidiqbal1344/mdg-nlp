@@ -1,0 +1,75 @@
+{
+    "file_name": "XIN_ENG_20051122.0105.tml",
+    "doc_text": "XIN_ENG_20051122.0105\n\nBERLIN, Nov. 22 , 2005 (Xinhua)\n\nURGENT: Germany's Merkel elected first woman chancellor\n\n\n\n\nAngela Merkel, the leader of the Christian Democrats, was elected Tuesday by the German parliament as new chancellor, the first woman chancellor in Germany.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-11-22"
+            },
+            "text": "Nov. 22 , 2005",
+            "start": 31,
+            "end": 162,
+            "start_char": 31,
+            "end_char": 45
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "elected",
+            "start": 291,
+            "end": 341,
+            "start_char": 174,
+            "end_char": 181
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-11-22"
+            },
+            "text": "Tuesday",
+            "start": 342,
+            "end": 406,
+            "start_char": 182,
+            "end_char": 189
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

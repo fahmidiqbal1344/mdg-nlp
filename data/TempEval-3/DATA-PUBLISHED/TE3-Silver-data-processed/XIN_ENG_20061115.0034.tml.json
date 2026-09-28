@@ -1,0 +1,135 @@
+{
+    "file_name": "XIN_ENG_20061115.0034.tml",
+    "doc_text": "XIN_ENG_20061115.0034\n\nJERUSALEM, Nov. 15 , 2006 (Xinhua)\n\nUrgent: Israeli woman killed by Palestinian rocket attack: TV\n\n\n\n\nAn Israeli woman was killed in the town of Sderot by a rocket attack from the Gaza Strip on Wednesday, Israel's Channel 2 television reported.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-15"
+            },
+            "text": "Nov. 15 , 2006",
+            "start": 34,
+            "end": 165,
+            "start_char": 34,
+            "end_char": 48
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "killed",
+            "start": 263,
+            "end": 312,
+            "start_char": 146,
+            "end_char": 152
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "attack",
+            "start": 347,
+            "end": 396,
+            "start_char": 187,
+            "end_char": 193
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-15"
+            },
+            "text": "Wednesday",
+            "start": 420,
+            "end": 486,
+            "start_char": 217,
+            "end_char": 226
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e3"
+            },
+            "text": "reported",
+            "start": 518,
+            "end": 568,
+            "start_char": 258,
+            "end_char": 266
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

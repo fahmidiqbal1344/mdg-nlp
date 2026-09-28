@@ -1,0 +1,369 @@
+{
+    "file_name": "wsj_0923.tml",
+    "doc_text": "WSJ891026-0136 \n = 891026 \n 891026-0136. \n Kyle Technology Plans Sale \n 10/26/89 \n WALL STREET JOURNAL (J) \n KYLE \n TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) \n ROISEBURG, Ore.  \n\n   Kyle Technology Corp. said a Seattle investor has signed a letter of intent to buy the company for about $3.1 million, or $1.20 a share. \n\n   The investor, Donald A. Wright, plans to run the company, said a spokesman for Kyle. \n\n   The transaction has been approved by Kyle's board, but requires the approval of the company's shareholders. \nKyle manufactures electronic components.",
+    "tags": {
+        "t16": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t16",
+                "type": "DATE",
+                "value": "1989-10-26"
+            },
+            "text": "10/26/89",
+            "start": 72,
+            "end": 198,
+            "start_char": 72,
+            "end_char": 80
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 323,
+            "end": 380,
+            "start_char": 205,
+            "end_char": 209
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2",
+                "stem": "sign"
+            },
+            "text": "signed",
+            "start": 404,
+            "end": 465,
+            "start_char": 233,
+            "end_char": 239
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e4",
+                "stem": "intent"
+            },
+            "text": "intent",
+            "start": 478,
+            "end": 538,
+            "start_char": 252,
+            "end_char": 258
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6",
+                "stem": "buy"
+            },
+            "text": "buy",
+            "start": 542,
+            "end": 599,
+            "start_char": 262,
+            "end_char": 265
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e7",
+                "stem": "plan"
+            },
+            "text": "plans",
+            "start": 691,
+            "end": 748,
+            "start_char": 357,
+            "end_char": 362
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9",
+                "stem": "run"
+            },
+            "text": "run",
+            "start": 752,
+            "end": 809,
+            "start_char": 366,
+            "end_char": 369
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e10",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 823,
+            "end": 881,
+            "start_char": 383,
+            "end_char": 387
+        },
+        "e11": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e11",
+                "stem": "transaction"
+            },
+            "text": "transaction",
+            "start": 913,
+            "end": 987,
+            "start_char": 419,
+            "end_char": 430
+        },
+        "e12": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e12",
+                "stem": "approve"
+            },
+            "text": "approved",
+            "start": 997,
+            "end": 1062,
+            "start_char": 440,
+            "end_char": 448
+        },
+        "e13": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e13",
+                "stem": "require"
+            },
+            "text": "requires",
+            "start": 1084,
+            "end": 1148,
+            "start_char": 470,
+            "end_char": 478
+        },
+        "e14": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e14",
+                "stem": "approval"
+            },
+            "text": "approval",
+            "start": 1153,
+            "end": 1219,
+            "start_char": 483,
+            "end_char": 491
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e1",
+            "eiid": "ei83",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e2",
+            "eiid": "ei84",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e4",
+            "eiid": "ei85",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e6",
+            "eiid": "ei86",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e7",
+            "eiid": "ei87",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e9",
+            "eiid": "ei88",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e10",
+            "eiid": "ei89",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e11",
+            "eiid": "ei90",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e12",
+            "eiid": "ei91",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e13",
+            "eiid": "ei92",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e14",
+            "eiid": "ei93",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        }
+    ],
+    "eiid2eventid": {
+        "ei83": "e1",
+        "ei84": "e2",
+        "ei85": "e4",
+        "ei86": "e6",
+        "ei87": "e7",
+        "ei88": "e9",
+        "ei89": "e10",
+        "ei90": "e11",
+        "ei91": "e12",
+        "ei92": "e13",
+        "ei93": "e14"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei83",
+            "relatedToTime": "t16",
+            "origin": "USER"
+        },
+        {
+            "lid": "l2",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei84",
+            "relatedToEventInstance": "ei83",
+            "origin": "USER"
+        },
+        {
+            "lid": "l3",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei87",
+            "relatedToTime": "t16",
+            "origin": "USER"
+        },
+        {
+            "lid": "l4",
+            "relType": "IDENTITY",
+            "eventInstanceID": "ei89",
+            "relatedToEventInstance": "ei83",
+            "origin": "USER"
+        },
+        {
+            "lid": "l5",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei90",
+            "relatedToEventInstance": "ei86",
+            "origin": "USER"
+        },
+        {
+            "lid": "l6",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei91",
+            "relatedToTime": "t16",
+            "origin": "USER"
+        },
+        {
+            "lid": "l7",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei92",
+            "relatedToTime": "t16",
+            "origin": "USER"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l8",
+            "relType": "MODAL",
+            "eventInstanceID": "ei93",
+            "subordinatedEventInstance": "ei90"
+        },
+        {
+            "lid": "l9",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei83",
+            "subordinatedEventInstance": "ei84"
+        },
+        {
+            "lid": "l10",
+            "relType": "MODAL",
+            "eventInstanceID": "ei84",
+            "subordinatedEventInstance": "ei85"
+        },
+        {
+            "lid": "l11",
+            "relType": "MODAL",
+            "eventInstanceID": "ei85",
+            "subordinatedEventInstance": "ei86"
+        },
+        {
+            "lid": "l12",
+            "relType": "MODAL",
+            "eventInstanceID": "ei87",
+            "subordinatedEventInstance": "ei88"
+        },
+        {
+            "lid": "l13",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei89",
+            "subordinatedEventInstance": "ei87"
+        },
+        {
+            "lid": "l14",
+            "relType": "MODAL",
+            "eventInstanceID": "ei91",
+            "subordinatedEventInstance": "ei90"
+        },
+        {
+            "lid": "l15",
+            "relType": "MODAL",
+            "eventInstanceID": "ei92",
+            "subordinatedEventInstance": "ei93"
+        }
+    ],
+    "alinks": []
+}

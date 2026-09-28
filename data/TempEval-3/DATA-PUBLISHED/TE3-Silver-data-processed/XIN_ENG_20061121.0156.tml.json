@@ -1,0 +1,75 @@
+{
+    "file_name": "XIN_ENG_20061121.0156.tml",
+    "doc_text": "XIN_ENG_20061121.0156\n\nLONDON, Nov. 21 , 2006 (Xinhua)\n\nBritish stocks trade higher at midday\n\n\n\n\nBritish stocks traded higher at midday on Tuesday on the London Stock Exchange.\n\nThe FTSE 100-share index was up 21.00 points, at 6,226.10 at noon.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-21"
+            },
+            "text": "Nov. 21 , 2006",
+            "start": 31,
+            "end": 162,
+            "start_char": 31,
+            "end_char": 45
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "traded",
+            "start": 230,
+            "end": 279,
+            "start_char": 113,
+            "end_char": 119
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-21"
+            },
+            "text": "Tuesday",
+            "start": 300,
+            "end": 364,
+            "start_char": 140,
+            "end_char": 147
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

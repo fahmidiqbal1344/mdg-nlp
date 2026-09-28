@@ -1,0 +1,307 @@
+{
+    "file_name": "XIN_ENG_20061108.0124.tml",
+    "doc_text": "XIN_ENG_20061108.0124\n\nKUALA LUMPUR, Nov. 8 , 2006 (Xinhua)\n\nMalaysia stock market closes higher\n\n\n\n\nShare prices on Malaysia stock market closed higher on Wednesday.\n\nAt the closing bell, the benchmark Kuala Lumpur Composite Index (KLCI) gained 4.01 points to 1007.29.\n\nThe Second Board Index dropped 0.74 of a point to 87.03, the Industrial Index rose 23.43 points to 2119.66 and Mesdaq edged down 0.29 of a point to 115.50.\n\nLosers led gainers 419 to 389 while 322 counters traded unchanged.\n\nVolume stood at 984.13 million shares worth 1.274 billion ringgit (344.32 million U.S. dollars), up from 875.15 million shares worth 1.22 billion ringgit (330 million U.S. dollars on Tuesday.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-08"
+            },
+            "text": "Nov. 8 , 2006",
+            "start": 37,
+            "end": 167,
+            "start_char": 37,
+            "end_char": 50
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "closed",
+            "start": 256,
+            "end": 305,
+            "start_char": 139,
+            "end_char": 145
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-08"
+            },
+            "text": "Wednesday",
+            "start": 316,
+            "end": 382,
+            "start_char": 156,
+            "end_char": 165
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "gained",
+            "start": 456,
+            "end": 505,
+            "start_char": 239,
+            "end_char": 245
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "dropped",
+            "start": 554,
+            "end": 604,
+            "start_char": 294,
+            "end_char": 301
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "rose",
+            "start": 652,
+            "end": 699,
+            "start_char": 349,
+            "end_char": 353
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "edged",
+            "start": 735,
+            "end": 783,
+            "start_char": 389,
+            "end_char": 394
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "led",
+            "start": 824,
+            "end": 870,
+            "start_char": 435,
+            "end_char": 438
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "traded",
+            "start": 909,
+            "end": 958,
+            "start_char": 477,
+            "end_char": 483
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e8"
+            },
+            "text": "stood",
+            "start": 978,
+            "end": 1021,
+            "start_char": 503,
+            "end_char": 508
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2006-11-07"
+            },
+            "text": "Tuesday",
+            "start": 1192,
+            "end": 1256,
+            "start_char": 679,
+            "end_char": 686
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei7": "e7",
+        "ei8": "e8"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei8",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei6",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei8",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei8",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l12",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei4",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l13",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei5",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l14",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei7",
+            "relType": "AFTER"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

@@ -1,0 +1,275 @@
+{
+    "file_name": "AFP_ENG_19970410.0247.tml",
+    "doc_text": "AFP_ENG_19970410.0247\n\nBEIJING, April 10 , 1997 (AFP)\n\n500,000 Dutch tulips deck out Beijing park\n\n\n\n\nMore than 500,000 Dutch tulips will deck out a park next to Beijing's Tiananmen Square from April 12, China's official Xinhua news agency reported Thursday.\n\nThe tulips, provided by the Dutch Euro-Asia Flower Group, will be arranged in ten large floral mozaics in Zhongshan park and are aimed at giving Beijingers a taste of the Netherlands in Spring.\n\nThe one-month display will also feature 6,000 blooming peonies, azaleas, and orchids.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "1997-04-10"
+            },
+            "text": "April 10 , 1997",
+            "start": 32,
+            "end": 164,
+            "start_char": 32,
+            "end_char": 47
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "deck",
+            "start": 255,
+            "end": 302,
+            "start_char": 138,
+            "end_char": 142
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "1996-04-12"
+            },
+            "text": "April 12",
+            "start": 354,
+            "end": 419,
+            "start_char": 194,
+            "end_char": 202
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e2"
+            },
+            "text": "reported",
+            "start": 457,
+            "end": 507,
+            "start_char": 240,
+            "end_char": 248
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "1997-04-10"
+            },
+            "text": "Thursday",
+            "start": 508,
+            "end": 573,
+            "start_char": 249,
+            "end_char": 257
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "arranged",
+            "start": 642,
+            "end": 693,
+            "start_char": 326,
+            "end_char": 334
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e5"
+            },
+            "text": "aimed",
+            "start": 748,
+            "end": 793,
+            "start_char": 389,
+            "end_char": 394
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "giving",
+            "start": 797,
+            "end": 846,
+            "start_char": 398,
+            "end_char": 404
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "1997-SP"
+            },
+            "text": "Spring",
+            "start": 888,
+            "end": 948,
+            "start_char": 446,
+            "end_char": 452
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "feature",
+            "start": 983,
+            "end": 1033,
+            "start_char": 487,
+            "end_char": 494
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1000002",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei7": "e7",
+        "ei1000002": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1000002",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei7",
+            "relatedToTime": "t0",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei1000002",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei1000002",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei6",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei7",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l12",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t3",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

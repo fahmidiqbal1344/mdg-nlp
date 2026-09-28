@@ -1,0 +1,276 @@
+{
+    "file_name": "AFP_ENG_20061205.0070.tml",
+    "doc_text": "AFP_ENG_20061205.0070\n\nMOSCOW, Dec 5 , 2006, 2006\n\nRussian ex-PM suffering 'unknown' illness\n\n\n\n\nRussian doctors treating former prime minister Yegor Gaidar have detected symptoms that \"do not correspond to any known illness\" but cannot say for sure that he was a victim of poisoning, Gaidar's office said Tuesday.\n\n\"The sudden development of the illness, the multi-faceted nature of the symptoms... do not correspond to any known illness,\" although \"doctors cannot unequivocally diagnose poisoning,\" the office said in a statement.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-12-05"
+            },
+            "text": "Dec 5 , 2006",
+            "start": 31,
+            "end": 160,
+            "start_char": 31,
+            "end_char": 43
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "treating",
+            "start": 230,
+            "end": 281,
+            "start_char": 113,
+            "end_char": 121
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "detected",
+            "start": 322,
+            "end": 373,
+            "start_char": 162,
+            "end_char": 170
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "correspond",
+            "start": 396,
+            "end": 449,
+            "start_char": 193,
+            "end_char": 203
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e4"
+            },
+            "text": "say",
+            "start": 483,
+            "end": 528,
+            "start_char": 237,
+            "end_char": 240
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e5"
+            },
+            "text": "said",
+            "start": 589,
+            "end": 635,
+            "start_char": 301,
+            "end_char": 305
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-12-05"
+            },
+            "text": "Tuesday",
+            "start": 636,
+            "end": 700,
+            "start_char": 306,
+            "end_char": 313
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "development",
+            "start": 715,
+            "end": 769,
+            "start_char": 328,
+            "end_char": 339
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "correspond",
+            "start": 837,
+            "end": 890,
+            "start_char": 407,
+            "end_char": 417
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e9"
+            },
+            "text": "said",
+            "start": 985,
+            "end": 1031,
+            "start_char": 512,
+            "end_char": 516
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "NEG"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "NEG"
+        },
+        {
+            "eiid": "ei9",
+            "eventID": "e9",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei7": "e7",
+        "ei9": "e9"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei9",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei5",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei9",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei5",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei9",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei5",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei7",
+            "relatedToEventInstance": "ei9",
+            "relType": "BEFORE"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

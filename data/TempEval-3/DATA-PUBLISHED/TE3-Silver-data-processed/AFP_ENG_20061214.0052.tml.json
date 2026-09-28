@@ -1,0 +1,363 @@
+{
+    "file_name": "AFP_ENG_20061214.0052.tml",
+    "doc_text": "AFP_ENG_20061214.0052\n\nJERUSALEM, Dec 14 , 2006, 2006\n\nIsrael court says targeted killings 'legal' in some cases\n\n\n\n\nIsrael's Supreme Court on Thursday ruled that the legality of targeted strikes against suspected Palestinian militants should be determined on a case-by-case, army radio reported.\n\n\"We cannot determine in advance that all targetted killings are contrary to international law. At the same time, it is not possible that all such liquidations are in line with international law,\" the radio quoted the ruling as saying.\n\nThe legality of all targeted killings must be examined on a case by case basis,\" it said.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-12-14"
+            },
+            "text": "Dec 14 , 2006",
+            "start": 34,
+            "end": 164,
+            "start_char": 34,
+            "end_char": 47
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-12-14"
+            },
+            "text": "Thursday",
+            "start": 260,
+            "end": 325,
+            "start_char": 143,
+            "end_char": 151
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "ruled",
+            "start": 326,
+            "end": 374,
+            "start_char": 152,
+            "end_char": 157
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "strikes",
+            "start": 405,
+            "end": 455,
+            "start_char": 188,
+            "end_char": 195
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "determined",
+            "start": 506,
+            "end": 559,
+            "start_char": 246,
+            "end_char": 256
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e4"
+            },
+            "text": "reported",
+            "start": 590,
+            "end": 640,
+            "start_char": 287,
+            "end_char": 295
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e5"
+            },
+            "text": "determine",
+            "start": 654,
+            "end": 704,
+            "start_char": 309,
+            "end_char": 318
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "killings",
+            "start": 735,
+            "end": 786,
+            "start_char": 349,
+            "end_char": 357
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e8"
+            },
+            "text": "quoted",
+            "start": 933,
+            "end": 981,
+            "start_char": 504,
+            "end_char": 510
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9"
+            },
+            "text": "ruling",
+            "start": 986,
+            "end": 1035,
+            "start_char": 515,
+            "end_char": 521
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e10"
+            },
+            "text": "saying",
+            "start": 1039,
+            "end": 1088,
+            "start_char": 525,
+            "end_char": 531
+        },
+        "e12": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e12"
+            },
+            "text": "examined",
+            "start": 1137,
+            "end": 1189,
+            "start_char": 580,
+            "end_char": 588
+        },
+        "e13": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e13"
+            },
+            "text": "said",
+            "start": 1219,
+            "end": 1266,
+            "start_char": 618,
+            "end_char": 622
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei10",
+            "eventID": "e10",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei12",
+            "eventID": "e12",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei13",
+            "eventID": "e13",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "NOUN",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei9",
+            "eventID": "e9",
+            "pos": "NOUN",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei10": "e10",
+        "ei1": "e1",
+        "ei12": "e12",
+        "ei3": "e3",
+        "ei13": "e13",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei8": "e8",
+        "ei9": "e9"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei13",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei10",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei8",
+            "relatedToEventInstance": "ei10",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei8",
+            "relatedToEventInstance": "ei9",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei8",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei8",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei6",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l12",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l13",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l14",
+            "eventInstanceID": "ei8",
+            "relatedToEventInstance": "ei13",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l15",
+            "eventInstanceID": "ei12",
+            "relatedToEventInstance": "ei13",
+            "relType": "BEFORE"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

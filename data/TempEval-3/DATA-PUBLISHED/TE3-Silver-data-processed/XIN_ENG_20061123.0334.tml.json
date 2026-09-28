@@ -1,0 +1,270 @@
+{
+    "file_name": "XIN_ENG_20061123.0334.tml",
+    "doc_text": "XIN_ENG_20061123.0334\n\nBEIJING, Nov. 24 , 2006 (Xinhua)\n\nXinhua international news advisory -- Nov.24\n\n\n\n\nThe following are some of the major international news stories scheduled to be covered or pursued by Xinhua on Friday.\n\n-- Hu Jintao meets with Pakistani President.\n\n-- Hu Jintao delivers speech in Pakistan.\n\n-- Putin rules out expansion ban on Polish meat to entire EU.\n\n-- Spain, China sign agreement on the environment.\n\n-- Mexico launches action plan as cold weather bites.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-24"
+            },
+            "text": "Nov. 24 , 2006",
+            "start": 32,
+            "end": 163,
+            "start_char": 32,
+            "end_char": 46
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "scheduled",
+            "start": 286,
+            "end": 338,
+            "start_char": 169,
+            "end_char": 178
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "covered",
+            "start": 345,
+            "end": 395,
+            "start_char": 185,
+            "end_char": 192
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "pursued",
+            "start": 399,
+            "end": 449,
+            "start_char": 196,
+            "end_char": 203
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-24"
+            },
+            "text": "Friday",
+            "start": 463,
+            "end": 526,
+            "start_char": 217,
+            "end_char": 223
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "meets",
+            "start": 542,
+            "end": 590,
+            "start_char": 239,
+            "end_char": 244
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "delivers",
+            "start": 631,
+            "end": 682,
+            "start_char": 285,
+            "end_char": 293
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "rules",
+            "start": 713,
+            "end": 761,
+            "start_char": 324,
+            "end_char": 329
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8"
+            },
+            "text": "sign",
+            "start": 826,
+            "end": 873,
+            "start_char": 394,
+            "end_char": 398
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10"
+            },
+            "text": "bites",
+            "start": 952,
+            "end": 1001,
+            "start_char": 477,
+            "end_char": 482
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei10",
+            "eventID": "e10",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei10": "e10",
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei8": "e8"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei8",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei8",
+            "relatedToEventInstance": "ei10",
+            "relType": "BEFORE"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

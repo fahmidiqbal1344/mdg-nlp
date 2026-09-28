@@ -1,0 +1,348 @@
+{
+    "file_name": "XIN_ENG_20061102.0069.tml",
+    "doc_text": "XIN_ENG_20061102.0069\n\nCANBERRA, Nov. 2 , 2006 (Xinhua)\n\nAustralian stock market closes lower\n\n\n\n\nThe Australian stock exchange market closed lower Thursday as the benchmark S/ASX200 lost 7.0 points to 5,409.4, while the all ordinaries dipped 6.5 points to 5, 377.1.\n\nMarket turnover was 1.4 billion shares worth 5.47 billion Australian dollars (4.22 billion U.S. dollars), with 584 stocks down, 578 up and 315 unchanged.\n\nAmong the resources stocks, BHP Billiton advanced 8 cents to 27. 60 dollars, Rio Tinto improved 9 cents to 79.20 dollars.\n\nAmong the banking stocks, the National Australia Bank softened 24 cents to 38.20 dollars, the Commonwealth Bank rose 12 cents to 47.81 dollars, and the ANZ lifted 5 cents to 29.59 dollars.\n\nIn the media sector, News Corp slid 53 cents to 27.67 dollars.\n\nTelecommunications giant Telstra slumped 4 cents to 3.88 dollars.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-02"
+            },
+            "text": "Nov. 2 , 2006",
+            "start": 33,
+            "end": 163,
+            "start_char": 33,
+            "end_char": 46
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "closed",
+            "start": 252,
+            "end": 301,
+            "start_char": 135,
+            "end_char": 141
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-02"
+            },
+            "text": "Thursday",
+            "start": 308,
+            "end": 373,
+            "start_char": 148,
+            "end_char": 156
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "lost",
+            "start": 400,
+            "end": 447,
+            "start_char": 183,
+            "end_char": 187
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "dipped",
+            "start": 496,
+            "end": 545,
+            "start_char": 236,
+            "end_char": 242
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "advanced",
+            "start": 767,
+            "end": 818,
+            "start_char": 464,
+            "end_char": 472
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "improved",
+            "start": 856,
+            "end": 907,
+            "start_char": 510,
+            "end_char": 518
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "softened",
+            "start": 989,
+            "end": 1040,
+            "start_char": 600,
+            "end_char": 608
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "rose",
+            "start": 1090,
+            "end": 1137,
+            "start_char": 658,
+            "end_char": 662
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8"
+            },
+            "text": "lifted",
+            "start": 1177,
+            "end": 1226,
+            "start_char": 702,
+            "end_char": 708
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9"
+            },
+            "text": "slid",
+            "start": 1285,
+            "end": 1332,
+            "start_char": 767,
+            "end_char": 771
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10"
+            },
+            "text": "slumped",
+            "start": 1394,
+            "end": 1445,
+            "start_char": 833,
+            "end_char": 840
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei10",
+            "eventID": "e10",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei9",
+            "eventID": "e9",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei10": "e10",
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei7": "e7",
+        "ei8": "e8",
+        "ei9": "e9"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei9",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei10",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei9",
+            "relatedToEventInstance": "ei10",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei9",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei6",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei8",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l12",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l13",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l14",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei7",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l15",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l16",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei5",
+            "relType": "SIMULTANEOUS"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

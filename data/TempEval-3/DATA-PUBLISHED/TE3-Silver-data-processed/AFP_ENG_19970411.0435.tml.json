@@ -1,0 +1,135 @@
+{
+    "file_name": "AFP_ENG_19970411.0435.tml",
+    "doc_text": "AFP_ENG_19970411.0435\n\nKINSHASA, April 11 , 1997 (AFP)\n\nURGENT Zairean premier forms government\n\n\n\n\nZairean Prime Minister General Likulia Bolongo on Friday announced the formation of a \"national salvation\" government which includes two generals.\n\nGenerals were appointed to the posts of interior and defense minister while former foreign minister Gerard Kamanda Wa Kamanda was reappointed.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "1997-04-11"
+            },
+            "text": "April 11 , 1997",
+            "start": 33,
+            "end": 165,
+            "start_char": 33,
+            "end_char": 48
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "1997-04-11"
+            },
+            "text": "Friday",
+            "start": 267,
+            "end": 330,
+            "start_char": 150,
+            "end_char": 156
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1"
+            },
+            "text": "announced",
+            "start": 331,
+            "end": 382,
+            "start_char": 157,
+            "end_char": 166
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "appointed",
+            "start": 478,
+            "end": 530,
+            "start_char": 262,
+            "end_char": 271
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "reappointed",
+            "start": 637,
+            "end": 691,
+            "start_char": 378,
+            "end_char": 389
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei5": "e5"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei5",
+            "relType": "AFTER"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

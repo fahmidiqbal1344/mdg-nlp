@@ -1,0 +1,108 @@
+{
+    "file_name": "AFP_ENG_20061214.0206.tml",
+    "doc_text": "AFP_ENG_20061214.0206\n\nDOHA, Dec 14 , 2006, 2006\n\nChina's Li Yan wins Asiad cycling points gold\n\n\n\n\nChina's Li Yan won the Asian Games women's cycling points gold medal on Thursday.\n\nSouth Korea's Lee Min Hye took silver with Nontasin Chanpeng of Thailand winning bronze.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-12-14"
+            },
+            "text": "Dec 14 , 2006",
+            "start": 29,
+            "end": 159,
+            "start_char": 29,
+            "end_char": 42
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "won",
+            "start": 232,
+            "end": 278,
+            "start_char": 115,
+            "end_char": 118
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-12-14"
+            },
+            "text": "Thursday",
+            "start": 332,
+            "end": 397,
+            "start_char": 172,
+            "end_char": 180
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "took",
+            "start": 426,
+            "end": 473,
+            "start_char": 209,
+            "end_char": 213
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

@@ -1,0 +1,739 @@
+{
+    "file_name": "CNN_20130322_248.tml",
+    "doc_text": "CNN_20130322_248\n\nMarch 22, 2013\n\nFAA to close 149 regional airport control towers, spare 40 others\n\n\n\n\n\nThe FAA on Friday announced it will close 149 regional airport control towers because of forced spending cuts -- sparing 40 others that the FAA had been expected to shutter.\n\nA four-week, phased closure of the 149 control towers will begin on April 7, the FAA said.\n\nThe FAA had been expected to announce the closure of 189 low- or moderate-volume towers staffed by contractors. Before Friday's announcement, it said it would consider keeping a tower open if the airport convinces the agency it is in the \"national interest\" to do so.\n\nBy congressional mandate, the FAA must cut nearly $600 million from its nearly $48 billion budget this fiscal year. Because the majority of its 47,000 employees are air traffic controllers, it is impossible to cut its budget without affecting controllers, the agency says.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "DATE",
+                "value": "2013-03-22"
+            },
+            "text": "March 22, 2013",
+            "start": 18,
+            "end": 149,
+            "start_char": 18,
+            "end_char": 32
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2013-03-22"
+            },
+            "text": "Friday",
+            "start": 233,
+            "end": 296,
+            "start_char": 116,
+            "end_char": 122
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1"
+            },
+            "text": "announced",
+            "start": 297,
+            "end": 348,
+            "start_char": 123,
+            "end_char": 132
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "close",
+            "start": 357,
+            "end": 405,
+            "start_char": 141,
+            "end_char": 146
+        },
+        "e102": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e102"
+            },
+            "text": "cuts",
+            "start": 469,
+            "end": 518,
+            "start_char": 210,
+            "end_char": 214
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "sparing",
+            "start": 522,
+            "end": 572,
+            "start_char": 218,
+            "end_char": 225
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e4"
+            },
+            "text": "expected",
+            "start": 605,
+            "end": 653,
+            "start_char": 258,
+            "end_char": 266
+        },
+        "e45": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e45"
+            },
+            "text": "shutter",
+            "start": 657,
+            "end": 708,
+            "start_char": 270,
+            "end_char": 277
+        },
+        "t15": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t15",
+                "type": "DURATION",
+                "value": "P4W"
+            },
+            "text": "four-week",
+            "start": 713,
+            "end": 777,
+            "start_char": 282,
+            "end_char": 291
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "closure",
+            "start": 786,
+            "end": 836,
+            "start_char": 300,
+            "end_char": 307
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e6"
+            },
+            "text": "begin",
+            "start": 868,
+            "end": 915,
+            "start_char": 339,
+            "end_char": 344
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2013-04-07"
+            },
+            "text": "April 7",
+            "start": 919,
+            "end": 983,
+            "start_char": 348,
+            "end_char": 355
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e7"
+            },
+            "text": "said",
+            "start": 993,
+            "end": 1039,
+            "start_char": 365,
+            "end_char": 369
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e8"
+            },
+            "text": "expected",
+            "start": 1059,
+            "end": 1107,
+            "start_char": 389,
+            "end_char": 397
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e9"
+            },
+            "text": "announce",
+            "start": 1111,
+            "end": 1161,
+            "start_char": 401,
+            "end_char": 409
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10"
+            },
+            "text": "closure",
+            "start": 1166,
+            "end": 1217,
+            "start_char": 414,
+            "end_char": 421
+        },
+        "e100": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e100"
+            },
+            "text": "staffed",
+            "start": 1256,
+            "end": 1303,
+            "start_char": 460,
+            "end_char": 467
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "2013-03-22"
+            },
+            "text": "Friday",
+            "start": 1327,
+            "end": 1390,
+            "start_char": 491,
+            "end_char": 497
+        },
+        "e11": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e11"
+            },
+            "text": "announcement",
+            "start": 1393,
+            "end": 1449,
+            "start_char": 500,
+            "end_char": 512
+        },
+        "e12": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e12"
+            },
+            "text": "said",
+            "start": 1454,
+            "end": 1501,
+            "start_char": 517,
+            "end_char": 521
+        },
+        "e13": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e13"
+            },
+            "text": "consider",
+            "start": 1511,
+            "end": 1560,
+            "start_char": 531,
+            "end_char": 539
+        },
+        "e14": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e14"
+            },
+            "text": "keeping",
+            "start": 1561,
+            "end": 1611,
+            "start_char": 540,
+            "end_char": 547
+        },
+        "e15": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e15"
+            },
+            "text": "convinces",
+            "start": 1640,
+            "end": 1691,
+            "start_char": 576,
+            "end_char": 585
+        },
+        "e16": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e16"
+            },
+            "text": "cut",
+            "start": 1786,
+            "end": 1833,
+            "start_char": 680,
+            "end_char": 683
+        },
+        "t4": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "mod": "APPROX",
+                "tid": "t4",
+                "type": "DATE",
+                "value": "2013"
+            },
+            "text": "this fiscal year",
+            "start": 1889,
+            "end": 1969,
+            "start_char": 739,
+            "end_char": 755
+        },
+        "e17": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e17"
+            },
+            "text": "cut",
+            "start": 2065,
+            "end": 2112,
+            "start_char": 851,
+            "end_char": 854
+        },
+        "e175": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e175"
+            },
+            "text": "affecting",
+            "start": 2132,
+            "end": 2186,
+            "start_char": 874,
+            "end_char": 883
+        },
+        "e18": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e18"
+            },
+            "text": "says",
+            "start": 2211,
+            "end": 2258,
+            "start_char": 908,
+            "end_char": 912
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei45",
+            "eventID": "e45",
+            "pos": "VERB",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "NOUN",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei9",
+            "eventID": "e9",
+            "pos": "VERB",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei10",
+            "eventID": "e10",
+            "pos": "NOUN",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei11",
+            "eventID": "e11",
+            "pos": "NOUN",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei12",
+            "eventID": "e12",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei13",
+            "eventID": "e13",
+            "pos": "VERB",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "modality": "would"
+        },
+        {
+            "eiid": "ei14",
+            "eventID": "e14",
+            "pos": "VERB",
+            "tense": "PRESPART",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei15",
+            "eventID": "e15",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei16",
+            "eventID": "e16",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "modality": "MUST"
+        },
+        {
+            "eiid": "ei17",
+            "eventID": "e17",
+            "pos": "VERB",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei175",
+            "eventID": "e175",
+            "pos": "VERB",
+            "tense": "PRESPART",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei18",
+            "eventID": "e18",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei102",
+            "eventID": "e102",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei100",
+            "eventID": "e100",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei2": "e2",
+        "ei3": "e3",
+        "ei4": "e4",
+        "ei45": "e45",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei7": "e7",
+        "ei8": "e8",
+        "ei9": "e9",
+        "ei10": "e10",
+        "ei11": "e11",
+        "ei12": "e12",
+        "ei13": "e13",
+        "ei14": "e14",
+        "ei15": "e15",
+        "ei16": "e16",
+        "ei17": "e17",
+        "ei175": "e175",
+        "ei18": "e18",
+        "ei102": "e102",
+        "ei100": "e100"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1"
+        },
+        {
+            "lid": "l3",
+            "relType": "AFTER",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei1"
+        },
+        {
+            "lid": "l5",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei1"
+        },
+        {
+            "lid": "l6",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t2"
+        },
+        {
+            "lid": "l8",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei7"
+        },
+        {
+            "lid": "l9",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei7"
+        },
+        {
+            "lid": "l10",
+            "relType": "AFTER",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei7"
+        },
+        {
+            "lid": "l14",
+            "relType": "AFTER",
+            "eventInstanceID": "ei9",
+            "relatedToEventInstance": "ei8"
+        },
+        {
+            "lid": "l15",
+            "relType": "AFTER",
+            "eventInstanceID": "ei10",
+            "relatedToEventInstance": "ei8"
+        },
+        {
+            "lid": "l16",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei11",
+            "relatedToTime": "t3"
+        },
+        {
+            "lid": "l19",
+            "relType": "AFTER",
+            "eventInstanceID": "ei11",
+            "relatedToEventInstance": "ei12"
+        },
+        {
+            "lid": "l20",
+            "relType": "AFTER",
+            "eventInstanceID": "ei13",
+            "relatedToEventInstance": "ei12"
+        },
+        {
+            "lid": "l23",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei16",
+            "relatedToTime": "t4"
+        },
+        {
+            "lid": "l27",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei16",
+            "relatedToEventInstance": "ei18"
+        },
+        {
+            "lid": "l28",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei17",
+            "relatedToEventInstance": "ei18"
+        },
+        {
+            "lid": "l100",
+            "relType": "SIMULTANEOUS",
+            "timeID": "t1",
+            "relatedToTime": "t0"
+        },
+        {
+            "lid": "l101",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei7"
+        },
+        {
+            "lid": "l102",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei8",
+            "relatedToEventInstance": "ei1"
+        },
+        {
+            "lid": "l103",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t15"
+        },
+        {
+            "lid": "l104",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei11"
+        },
+        {
+            "lid": "l105",
+            "relType": "AFTER",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei102"
+        },
+        {
+            "lid": "l106",
+            "relType": "AFTER",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei1"
+        },
+        {
+            "lid": "l107",
+            "relType": "AFTER",
+            "eventInstanceID": "ei7",
+            "relatedToEventInstance": "ei8"
+        },
+        {
+            "lid": "l108",
+            "relType": "AFTER",
+            "eventInstanceID": "ei11",
+            "relatedToEventInstance": "ei12"
+        },
+        {
+            "lid": "l109",
+            "relType": "SIMULTANEOUS",
+            "timeID": "t3",
+            "relatedToTime": "t0"
+        },
+        {
+            "lid": "l110",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei15",
+            "relatedToEventInstance": "ei14"
+        },
+        {
+            "lid": "l111",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei16",
+            "relatedToTime": "t0"
+        },
+        {
+            "lid": "l112",
+            "relType": "INCLUDES",
+            "timeID": "t4",
+            "relatedToTime": "t0"
+        },
+        {
+            "lid": "l113",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei45"
+        },
+        {
+            "lid": "l114",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei100",
+            "relatedToEventInstance": "ei8"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

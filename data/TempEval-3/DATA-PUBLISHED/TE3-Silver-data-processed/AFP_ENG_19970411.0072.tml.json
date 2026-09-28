@@ -1,0 +1,168 @@
+{
+    "file_name": "AFP_ENG_19970411.0072.tml",
+    "doc_text": "AFP_ENG_19970411.0072\n\nSYDNEY, April 11 , 1997 (AFP)\n\nAustralian stocks down 0.5 percent\n\n\n\n\nAustralian share prices slipped 0.5 percent Friday in the face of falling base metal prices and lingering concerns over an inflation report due out in the United States, brokers said.\n\nThe Australian Stock Exchange's main indicator, the all ordinaries index, fell 12.4 points to 2,380.5.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "1997-04-11"
+            },
+            "text": "April 11 , 1997",
+            "start": 31,
+            "end": 163,
+            "start_char": 31,
+            "end_char": 46
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "slipped",
+            "start": 234,
+            "end": 284,
+            "start_char": 117,
+            "end_char": 124
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "1997-04-11"
+            },
+            "text": "Friday",
+            "start": 297,
+            "end": 360,
+            "start_char": 137,
+            "end_char": 143
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "falling",
+            "start": 376,
+            "end": 426,
+            "start_char": 159,
+            "end_char": 166
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e4"
+            },
+            "text": "said",
+            "start": 531,
+            "end": 577,
+            "start_char": 271,
+            "end_char": 275
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "fell",
+            "start": 654,
+            "end": 701,
+            "start_char": 352,
+            "end_char": 356
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei5",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "SIMULTANEOUS"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

@@ -1,0 +1,75 @@
+{
+    "file_name": "XIN_ENG_20061106.0044.tml",
+    "doc_text": "XIN_ENG_20061106.0044\n\nBEIJING, Nov. 6 , 2006 (Xinhua)\n\nShenzhen stock index up -- Nov. 6\n\n\n\n\nThe Component Stock Index on the Shenzhen Stock Exchange closed at 4,785.37 points on Monday, up 94.94 points from the previous close.\n\nA Share Index: 5,024.66 points, up 99.68 points;\n\nB Share Index: 2,817.62 points, up 61.12 points;\n\nTotal Turnover: 14,619,420,000 yuan.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-06"
+            },
+            "text": "Nov. 6 , 2006",
+            "start": 32,
+            "end": 162,
+            "start_char": 32,
+            "end_char": 45
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "closed",
+            "start": 268,
+            "end": 317,
+            "start_char": 151,
+            "end_char": 157
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-06"
+            },
+            "text": "Monday",
+            "start": 340,
+            "end": 403,
+            "start_char": 180,
+            "end_char": 186
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

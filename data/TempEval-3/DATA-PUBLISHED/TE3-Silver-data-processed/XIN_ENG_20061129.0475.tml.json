@@ -1,0 +1,346 @@
+{
+    "file_name": "XIN_ENG_20061129.0475.tml",
+    "doc_text": "XIN_ENG_20061129.0475\n\nPARIS, Nov. 29 , 2006 (Xinhua)\n\nFrench unemployment rate unchanged at 8.8 percent in October\n\n\n\n\nThe French unemployment rate was 8.8 percent in October, unchanged from September, Prime Minister Dominique de Villepin told media on Wednesday.\n\nThe number of registered unemployed people who are \"immediately available\" for work rose by just 400 during October and the jobless rate remained stable at 8.8 percent of the workforce, the Labor Ministry said.\n\n\"This month, the figures are stable. We remain at 8.8 percent but with the firm intention of re-starting the fall,\" Villepin told the Europe 1 radio station.\n\nFighting unemployment has been a priority of the center-right government of Villepin and the number of unemployed has been steadily falling since March 2005.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-29"
+            },
+            "text": "Nov. 29 , 2006",
+            "start": 30,
+            "end": 161,
+            "start_char": 30,
+            "end_char": 44
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-10"
+            },
+            "text": "October",
+            "start": 285,
+            "end": 346,
+            "start_char": 168,
+            "end_char": 175
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e2"
+            },
+            "text": "told",
+            "start": 411,
+            "end": 457,
+            "start_char": 240,
+            "end_char": 244
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "2006-11-29"
+            },
+            "text": "Wednesday",
+            "start": 467,
+            "end": 533,
+            "start_char": 254,
+            "end_char": 263
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "rose",
+            "start": 620,
+            "end": 667,
+            "start_char": 350,
+            "end_char": 354
+        },
+        "t4": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t4",
+                "type": "DATE",
+                "value": "2006-10"
+            },
+            "text": "October",
+            "start": 687,
+            "end": 748,
+            "start_char": 374,
+            "end_char": 381
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e4"
+            },
+            "text": "remained",
+            "start": 770,
+            "end": 816,
+            "start_char": 403,
+            "end_char": 411
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e5"
+            },
+            "text": "said",
+            "start": 876,
+            "end": 922,
+            "start_char": 471,
+            "end_char": 475
+        },
+        "t5": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t5",
+                "type": "DATE",
+                "value": "2006-11"
+            },
+            "text": "This month",
+            "start": 926,
+            "end": 990,
+            "start_char": 479,
+            "end_char": 489
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e6"
+            },
+            "text": "remain",
+            "start": 1019,
+            "end": 1063,
+            "start_char": 518,
+            "end_char": 524
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e8"
+            },
+            "text": "told",
+            "start": 1142,
+            "end": 1188,
+            "start_char": 603,
+            "end_char": 607
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9"
+            },
+            "text": "falling",
+            "start": 1350,
+            "end": 1400,
+            "start_char": 769,
+            "end_char": 776
+        },
+        "t6": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t6",
+                "type": "DATE",
+                "value": "2005-03"
+            },
+            "text": "March 2005",
+            "start": 1407,
+            "end": 1471,
+            "start_char": 783,
+            "end_char": 793
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei9",
+            "eventID": "e9",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1000002",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei8": "e8",
+        "ei9": "e9",
+        "ei1000002": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei9",
+            "relatedToTime": "t0",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei8",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t4",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei1000002",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei1000002",
+            "relatedToTime": "t3",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei9",
+            "relatedToTime": "t6",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l12",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei5",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l13",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei5",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l14",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l15",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei1000002",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l16",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei8",
+            "relType": "AFTER"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

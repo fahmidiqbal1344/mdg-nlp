@@ -1,0 +1,195 @@
+{
+    "file_name": "AFP_ENG_20061209.0285.tml",
+    "doc_text": "AFP_ENG_20061209.0285\n\nRIYADH, Dec 9 , 2006, 2006\n\nURGENT  Arab world waiting to explode: Saudi king\n\n\n\n\nSaudi King Abdullah opened the annual summit of Gulf leaders Saturday with a warning that the Arab world was like a powder keg waiting to explode, citing the situation in the Palestinian territories, Iraq and Lebanon.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-12-09"
+            },
+            "text": "Dec 9 , 2006",
+            "start": 31,
+            "end": 160,
+            "start_char": 31,
+            "end_char": 43
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "opened",
+            "start": 242,
+            "end": 291,
+            "start_char": 125,
+            "end_char": 131
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "summit",
+            "start": 303,
+            "end": 352,
+            "start_char": 143,
+            "end_char": 149
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-12-09"
+            },
+            "text": "Saturday",
+            "start": 369,
+            "end": 434,
+            "start_char": 166,
+            "end_char": 174
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "warning",
+            "start": 442,
+            "end": 492,
+            "start_char": 182,
+            "end_char": 189
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "waiting",
+            "start": 535,
+            "end": 585,
+            "start_char": 232,
+            "end_char": 239
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "explode",
+            "start": 589,
+            "end": 639,
+            "start_char": 243,
+            "end_char": 250
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e6"
+            },
+            "text": "citing",
+            "start": 641,
+            "end": 689,
+            "start_char": 252,
+            "end_char": 258
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei6": "e6"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei4",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

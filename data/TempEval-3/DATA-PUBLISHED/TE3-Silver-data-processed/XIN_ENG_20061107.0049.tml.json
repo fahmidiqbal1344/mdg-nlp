@@ -1,0 +1,162 @@
+{
+    "file_name": "XIN_ENG_20061107.0049.tml",
+    "doc_text": "XIN_ENG_20061107.0049\n\nGAZA, Nov. 7 , 2006 (Xinhua)\n\nTV\n\n\n\n\nFive Palestinians were killed in a fresh Israeli air raid against the Gaza Strip on Tuesday, Dubai- based satellite channel Al-Arabiya reported.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-07"
+            },
+            "text": "Nov. 7 , 2006",
+            "start": 29,
+            "end": 159,
+            "start_char": 29,
+            "end_char": 42
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "killed",
+            "start": 200,
+            "end": 249,
+            "start_char": 83,
+            "end_char": 89
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "raid",
+            "start": 273,
+            "end": 320,
+            "start_char": 113,
+            "end_char": 117
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-07"
+            },
+            "text": "Tuesday",
+            "start": 347,
+            "end": 411,
+            "start_char": 144,
+            "end_char": 151
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "channel",
+            "start": 436,
+            "end": 486,
+            "start_char": 176,
+            "end_char": 183
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e5"
+            },
+            "text": "reported",
+            "start": 498,
+            "end": 548,
+            "start_char": 195,
+            "end_char": 203
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei4",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

@@ -1,0 +1,432 @@
+{
+    "file_name": "XIN_ENG_20051123.0221.tml",
+    "doc_text": "XIN_ENG_20051123.0221\n\nBERLIN, Nov. 23 , 2005 (Xinhua)\n\nSchroeder resigns from German parliament\n\n\n\n\nFormer German chancellor Gerhard Schroeder resigned Wednesday from the parliament, one day after he\n\ntransferred power to his successor Angela Merkel.\n\nSchroeder, 61, signed the resignation in the office of the speaker of parliament, Norbert Lammert. Clemens Bollen, a Social Democrat, will move into the Bundestag after Schroeder relinquished his seat.\n\nSchroeder was first elected to the Bundestag in 1980 and became\n\ngovernor in Lower Saxony a decade later. He defeated conservative chancellor Helmut Kohl and went into office in 1998.\n\nOn Tuesday, Merkel was sworn in as the head of the grand coalition government formed by Merkel's Christian Democrats and the Social Democrats.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-11-23"
+            },
+            "text": "Nov. 23 , 2005",
+            "start": 31,
+            "end": 162,
+            "start_char": 31,
+            "end_char": 45
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "resigned",
+            "start": 261,
+            "end": 312,
+            "start_char": 144,
+            "end_char": 152
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-11-23"
+            },
+            "text": "Wednesday",
+            "start": 313,
+            "end": 379,
+            "start_char": 153,
+            "end_char": 162
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "transferred",
+            "start": 419,
+            "end": 473,
+            "start_char": 202,
+            "end_char": 213
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "signed",
+            "start": 528,
+            "end": 577,
+            "start_char": 268,
+            "end_char": 274
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "resignation",
+            "start": 582,
+            "end": 636,
+            "start_char": 279,
+            "end_char": 290
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "move",
+            "start": 738,
+            "end": 785,
+            "start_char": 392,
+            "end_char": 396
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "relinquished",
+            "start": 821,
+            "end": 876,
+            "start_char": 432,
+            "end_char": 444
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "elected",
+            "start": 908,
+            "end": 958,
+            "start_char": 476,
+            "end_char": 483
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "1980"
+            },
+            "text": "1980",
+            "start": 979,
+            "end": 1034,
+            "start_char": 504,
+            "end_char": 508
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e8"
+            },
+            "text": "became",
+            "start": 1039,
+            "end": 1083,
+            "start_char": 513,
+            "end_char": 519
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9"
+            },
+            "text": "defeated",
+            "start": 1129,
+            "end": 1180,
+            "start_char": 565,
+            "end_char": 573
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10"
+            },
+            "text": "went",
+            "start": 1221,
+            "end": 1269,
+            "start_char": 614,
+            "end_char": 618
+        },
+        "t4": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t4",
+                "type": "DATE",
+                "value": "1998"
+            },
+            "text": "1998",
+            "start": 1285,
+            "end": 1340,
+            "start_char": 634,
+            "end_char": 638
+        },
+        "t5": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t5",
+                "type": "DATE",
+                "value": "2005-11-22"
+            },
+            "text": "Tuesday",
+            "start": 1346,
+            "end": 1410,
+            "start_char": 644,
+            "end_char": 651
+        },
+        "e11": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e11"
+            },
+            "text": "sworn",
+            "start": 1423,
+            "end": 1471,
+            "start_char": 664,
+            "end_char": 669
+        },
+        "e12": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e12"
+            },
+            "text": "formed",
+            "start": 1521,
+            "end": 1571,
+            "start_char": 719,
+            "end_char": 725
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei10",
+            "eventID": "e10",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei11",
+            "eventID": "e11",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei12",
+            "eventID": "e12",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei9",
+            "eventID": "e9",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei10": "e10",
+        "ei11": "e11",
+        "ei1": "e1",
+        "ei12": "e12",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei7": "e7",
+        "ei8": "e8",
+        "ei9": "e9"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei9",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei11",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei7",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei8",
+            "relatedToTime": "t3",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei10",
+            "relatedToTime": "t4",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei6",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei7",
+            "relatedToEventInstance": "ei9",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei9",
+            "relatedToEventInstance": "ei10",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l12",
+            "eventInstanceID": "ei9",
+            "relatedToEventInstance": "ei11",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l13",
+            "eventInstanceID": "ei11",
+            "relatedToTime": "t5",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l14",
+            "eventInstanceID": "ei11",
+            "relatedToEventInstance": "ei12",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l15",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l16",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l17",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei3",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l18",
+            "eventInstanceID": "ei7",
+            "relatedToEventInstance": "ei8",
+            "relType": "SIMULTANEOUS"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

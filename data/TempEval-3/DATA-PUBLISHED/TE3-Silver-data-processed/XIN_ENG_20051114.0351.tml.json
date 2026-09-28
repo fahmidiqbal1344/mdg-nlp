@@ -1,0 +1,256 @@
+{
+    "file_name": "XIN_ENG_20051114.0351.tml",
+    "doc_text": "XIN_ENG_20051114.0351\n\nTOKYO, Nov. 15 , 2005 (Xinhua)\n\nM6.9 quake hits Japan, tsunami warning issued\n\n\n\n\nAn earthquake with a preliminary magnitude of 6.9 jolted extensive areas on the Pacific side of north and east Japan Tuesday morning, with the Japan Meteorological Agency issuing a tsunami warning.\n\nThe warning for a tsunami up to 50 centimeters high was issued for the Pacific side of the Hokkaido and Tohoku areas in northern and northeastern Japan.\n\nThe 6:39 a.m. (2139 GMT) quake measured 3 on the Japanese seismic intensity scale of 7 in those areas.\n\nThere were no immediate reports of injuries or damage from the quake.\n\nThe focus was at a shallow depth under the seabed in the Pacific some 310 kilometers east of the Oshika Peninsula in Miyagi Prefecture.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-11-15"
+            },
+            "text": "Nov. 15 , 2005",
+            "start": 30,
+            "end": 161,
+            "start_char": 30,
+            "end_char": 44
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "jolted",
+            "start": 272,
+            "end": 321,
+            "start_char": 155,
+            "end_char": 161
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-11-08TMO"
+            },
+            "text": "Tuesday morning",
+            "start": 382,
+            "end": 457,
+            "start_char": 222,
+            "end_char": 237
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "issuing",
+            "start": 496,
+            "end": 546,
+            "start_char": 276,
+            "end_char": 283
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "warning",
+            "start": 557,
+            "end": 607,
+            "start_char": 294,
+            "end_char": 301
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "warning",
+            "start": 614,
+            "end": 664,
+            "start_char": 308,
+            "end_char": 315
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "tsunami",
+            "start": 671,
+            "end": 721,
+            "start_char": 322,
+            "end_char": 329
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "issued",
+            "start": 752,
+            "end": 801,
+            "start_char": 360,
+            "end_char": 366
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2005-11-15"
+            },
+            "text": "6:39 a.m.",
+            "start": 897,
+            "end": 963,
+            "start_char": 462,
+            "end_char": 471
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "measured",
+            "start": 981,
+            "end": 1032,
+            "start_char": 489,
+            "end_char": 497
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "NOUN",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei7": "e7"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei4",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei7",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei6",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "AFTER"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

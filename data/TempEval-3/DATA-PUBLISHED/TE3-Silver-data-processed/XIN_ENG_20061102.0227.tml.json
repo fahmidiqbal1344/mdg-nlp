@@ -1,0 +1,370 @@
+{
+    "file_name": "XIN_ENG_20061102.0227.tml",
+    "doc_text": "XIN_ENG_20061102.0227\n\nTOKYO, Nov. 2 , 2006 (Xinhua)\n\nJapanese NGO vehicle in Afghanistan fired by shots\n\n\n\n\nA vehicle of a Japanese nongovernmental organization was fired by shots in northern Afghanistan on Wednesday, Kyodo News reported Thursday.\n\nAccording to the Japanese Embassy, the vehicle, belonging to Peace Winds Japan, was shot by three bullets from at least four men riding on two motorbikes when it was driving in Sar-i-Pul Province, but two local staffs in the vehicle were fortunately unhurt.\n\nEmbassy officials said Taliban remnants or al-Qaida fighters were behind the incident and called for caution.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-02"
+            },
+            "text": "Nov. 2 , 2006",
+            "start": 30,
+            "end": 160,
+            "start_char": 30,
+            "end_char": 43
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "fired",
+            "start": 283,
+            "end": 331,
+            "start_char": 166,
+            "end_char": 171
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "shots",
+            "start": 335,
+            "end": 383,
+            "start_char": 175,
+            "end_char": 180
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-01"
+            },
+            "text": "Wednesday",
+            "start": 411,
+            "end": 477,
+            "start_char": 208,
+            "end_char": 217
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e3"
+            },
+            "text": "reported",
+            "start": 490,
+            "end": 540,
+            "start_char": 230,
+            "end_char": 238
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2006-11-02"
+            },
+            "text": "Thursday",
+            "start": 541,
+            "end": 606,
+            "start_char": 239,
+            "end_char": 247
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e4"
+            },
+            "text": "According",
+            "start": 609,
+            "end": 660,
+            "start_char": 250,
+            "end_char": 259
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e5"
+            },
+            "text": "belonging",
+            "start": 699,
+            "end": 746,
+            "start_char": 298,
+            "end_char": 307
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "shot",
+            "start": 773,
+            "end": 820,
+            "start_char": 334,
+            "end_char": 338
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "riding",
+            "start": 861,
+            "end": 910,
+            "start_char": 379,
+            "end_char": 385
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8"
+            },
+            "text": "driving",
+            "start": 941,
+            "end": 991,
+            "start_char": 416,
+            "end_char": 423
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e10"
+            },
+            "text": "said",
+            "start": 1095,
+            "end": 1142,
+            "start_char": 527,
+            "end_char": 531
+        },
+        "e11": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e11"
+            },
+            "text": "called",
+            "start": 1210,
+            "end": 1259,
+            "start_char": 599,
+            "end_char": 605
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1000003",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei10",
+            "eventID": "e10",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei11",
+            "eventID": "e11",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1000003": "e3",
+        "ei10": "e10",
+        "ei1": "e1",
+        "ei11": "e11",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei7": "e7",
+        "ei8": "e8"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei10",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei10",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei7",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei8",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei11",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei1000003",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei1000003",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l12",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei4",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l13",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l14",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei1000003",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l15",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei6",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l16",
+            "eventInstanceID": "ei10",
+            "relatedToEventInstance": "ei11",
+            "relType": "SIMULTANEOUS"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

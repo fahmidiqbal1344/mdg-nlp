@@ -1,0 +1,153 @@
+{
+    "file_name": "AFP_ENG_20061203.0178.tml",
+    "doc_text": "AFP_ENG_20061203.0178\n\nDOHA, Dec 3 , 2006, 2006\n\nURGENT  China's Chen Yanqing sets three world records\n\n\n\n\nChina's Chen Yanqing set new world records in the snatch, clean and jerk, and overall disciplines of the 58kg category in women's weightlifting at the Asian Games here Sunday.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-12-03"
+            },
+            "text": "Dec 3 , 2006",
+            "start": 29,
+            "end": 158,
+            "start_char": 29,
+            "end_char": 41
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "set",
+            "start": 245,
+            "end": 291,
+            "start_char": 128,
+            "end_char": 131
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "snatch",
+            "start": 317,
+            "end": 366,
+            "start_char": 157,
+            "end_char": 163
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "clean",
+            "start": 368,
+            "end": 416,
+            "start_char": 165,
+            "end_char": 170
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "jerk",
+            "start": 421,
+            "end": 468,
+            "start_char": 175,
+            "end_char": 179
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "weightlifting",
+            "start": 526,
+            "end": 582,
+            "start_char": 237,
+            "end_char": 250
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-12-10"
+            },
+            "text": "Sunday",
+            "start": 607,
+            "end": 670,
+            "start_char": 275,
+            "end_char": 281
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei2": "e2",
+        "ei5": "e5"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei5",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

@@ -1,0 +1,168 @@
+{
+    "file_name": "XIN_ENG_20061116.0146.tml",
+    "doc_text": "XIN_ENG_20061116.0146\n\nJAKARTA , Nov. 16 , 2006 (Xinhua)\n\nIndonesian shares close lower\n\n\n\n\nShare prices on the Jakarta Stock Exchange ended lower Thursday with the composite index down 1.29 points to close at 1,668.8 points.\n\nTurnovers totaled 1.9 billion shares worth 2.3 trillion rupiah (246.6 million U.S. dollars).\n\nGainers beat losers 69 to 61, with 80 other issues left unchanged.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-16"
+            },
+            "text": "Nov. 16 , 2006",
+            "start": 33,
+            "end": 164,
+            "start_char": 33,
+            "end_char": 47
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e1"
+            },
+            "text": "ended",
+            "start": 252,
+            "end": 299,
+            "start_char": 135,
+            "end_char": 140
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-16"
+            },
+            "text": "Thursday",
+            "start": 306,
+            "end": 371,
+            "start_char": 147,
+            "end_char": 155
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "close",
+            "start": 417,
+            "end": 465,
+            "start_char": 201,
+            "end_char": 206
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "PERCEPTION",
+                "eid": "e3"
+            },
+            "text": "totaled",
+            "start": 496,
+            "end": 546,
+            "start_char": 237,
+            "end_char": 244
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "beat",
+            "start": 631,
+            "end": 678,
+            "start_char": 329,
+            "end_char": 333
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

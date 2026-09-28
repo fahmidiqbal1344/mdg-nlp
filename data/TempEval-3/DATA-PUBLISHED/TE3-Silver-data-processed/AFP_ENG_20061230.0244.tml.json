@@ -1,0 +1,447 @@
+{
+    "file_name": "AFP_ENG_20061230.0244.tml",
+    "doc_text": "AFP_ENG_20061230.0244\n\nROME, Dec 30 , 2006, 2006\n\nVenice's 'vaporetti' water buses to hike fares in February\n\n\n\n\nThe cost of a single ride on a \"vaporetto\" -- the water bus that is Venice's main form of public transport -- will rise 20 percent to six euros (eight dollars) on February 1, the ANSA news agency reported Saturday.\n\nAn all-day ticket will cost 15 euros, and the three-day fare will rise to 30 euros, the agency said, quoting a statement from the Venice transport authority.\n\nThe hikes will not affect card-bearing Venice residents, it noted.\n\nFare increases are also in store for travellers on Italy's train network Trenitalia.\n\nFrom Monday, fares will be up an average of nine percent on inter-city and high-speed routes, the company said.\n\nThe increases are Trenitalia's first in five years.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-12-30"
+            },
+            "text": "Dec 30 , 2006",
+            "start": 29,
+            "end": 159,
+            "start_char": 29,
+            "end_char": 42
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "ride",
+            "start": 251,
+            "end": 298,
+            "start_char": 134,
+            "end_char": 138
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "rise",
+            "start": 388,
+            "end": 435,
+            "start_char": 228,
+            "end_char": 232
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2007-02-01"
+            },
+            "text": "February 1",
+            "start": 479,
+            "end": 546,
+            "start_char": 276,
+            "end_char": 286
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e3"
+            },
+            "text": "reported",
+            "start": 569,
+            "end": 619,
+            "start_char": 309,
+            "end_char": 317
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2006-12-30"
+            },
+            "text": "Saturday",
+            "start": 620,
+            "end": 685,
+            "start_char": 318,
+            "end_char": 326
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "cost",
+            "start": 711,
+            "end": 758,
+            "start_char": 352,
+            "end_char": 356
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "rise",
+            "start": 797,
+            "end": 844,
+            "start_char": 395,
+            "end_char": 399
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e6"
+            },
+            "text": "said",
+            "start": 869,
+            "end": 915,
+            "start_char": 424,
+            "end_char": 428
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "quoting",
+            "start": 917,
+            "end": 967,
+            "start_char": 430,
+            "end_char": 437
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e8"
+            },
+            "text": "affect",
+            "start": 1037,
+            "end": 1081,
+            "start_char": 507,
+            "end_char": 513
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10"
+            },
+            "text": "noted",
+            "start": 1116,
+            "end": 1165,
+            "start_char": 548,
+            "end_char": 553
+        },
+        "t5": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t5",
+                "type": "DATE",
+                "value": "2006-12-25"
+            },
+            "text": "Monday",
+            "start": 1259,
+            "end": 1322,
+            "start_char": 647,
+            "end_char": 653
+        },
+        "e13": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e13"
+            },
+            "text": "said",
+            "start": 1417,
+            "end": 1464,
+            "start_char": 748,
+            "end_char": 752
+        },
+        "e14": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e14"
+            },
+            "text": "increases",
+            "start": 1471,
+            "end": 1524,
+            "start_char": 759,
+            "end_char": 768
+        },
+        "t6": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t6",
+                "type": "DURATION",
+                "value": "P5Y"
+            },
+            "text": "five years",
+            "start": 1551,
+            "end": 1615,
+            "start_char": 795,
+            "end_char": 805
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1000003",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei10",
+            "eventID": "e10",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei13",
+            "eventID": "e13",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei14",
+            "eventID": "e14",
+            "pos": "NOUN",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "NEG"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1000003": "e3",
+        "ei10": "e10",
+        "ei1": "e1",
+        "ei13": "e13",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei14": "e14",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei7": "e7",
+        "ei8": "e8"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei13",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei13",
+            "relatedToTime": "t5",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei10",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei1000003",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei1000003",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei6",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei8",
+            "relatedToEventInstance": "ei10",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l12",
+            "eventInstanceID": "ei14",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l13",
+            "eventInstanceID": "ei8",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l14",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei6",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l15",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l16",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei1000003",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l17",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei6",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l18",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei10",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l19",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei7",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l20",
+            "eventInstanceID": "ei10",
+            "relatedToEventInstance": "ei13",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l21",
+            "eventInstanceID": "ei14",
+            "relatedToTime": "t6",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

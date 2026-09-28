@@ -1,0 +1,129 @@
+{
+    "file_name": "AFP_ENG_19970415.0304.tml",
+    "doc_text": "AFP_ENG_19970415.0304\n\nMOSCOW, April 15 , 1997 (AFP)\n\nURGENT Russia, NATO \"getting closer\" after Moscow talks\n\n\n\n\nNATO and Russia \"getting closer\" to an accord on future relations, the Russian foreign ministry said Tuesday after talks between NATO Secretary General Javier Solana and Foreign Minister Yevgeny Primakov.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "1997-04-15"
+            },
+            "text": "April 15 , 1997",
+            "start": 31,
+            "end": 163,
+            "start_char": 31,
+            "end_char": 46
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "getting",
+            "start": 248,
+            "end": 298,
+            "start_char": 131,
+            "end_char": 138
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e2"
+            },
+            "text": "said",
+            "start": 370,
+            "end": 416,
+            "start_char": 210,
+            "end_char": 214
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "1997-04-15"
+            },
+            "text": "Tuesday",
+            "start": 417,
+            "end": 481,
+            "start_char": 215,
+            "end_char": 222
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "talks",
+            "start": 488,
+            "end": 536,
+            "start_char": 229,
+            "end_char": 234
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei3",
+            "relType": "AFTER"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

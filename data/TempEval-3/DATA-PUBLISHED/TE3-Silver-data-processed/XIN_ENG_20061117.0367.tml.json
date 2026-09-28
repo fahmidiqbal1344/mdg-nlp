@@ -1,0 +1,252 @@
+{
+    "file_name": "XIN_ENG_20061117.0367.tml",
+    "doc_text": "XIN_ENG_20061117.0367\n\nWASHINGTON, Nov. 17 , 2006 (Xinhua)\n\nOlowokandi out of Boston's NBA games for at least two weeks\n\n\n\n\nNigerian star Michael Olowokandi will be out for the next two to four weeks due to an abdominal strain.\n\nThe 2.10 metre (7 feets) Boston Celtics centre Olowokandi has averaged 3.3 points and 2.7 rebounds in 12.5 minutes over Boston's first six National Basketball Association games.\n\nHe had a season-high eight points in a 110-108 victory over Charlotte on Nov. 8 for one of only two wins on the season for the Celtics (2-6).\n\nThe first overall pick in 1998, 31-year-old Olowokandi has averaged 8.5 points and 7.0 rebounds in 482 games with the Los Angeles Clippers, Minnesota Timberwolves and the Celtics.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-17"
+            },
+            "text": "Nov. 17 , 2006",
+            "start": 35,
+            "end": 166,
+            "start_char": 35,
+            "end_char": 49
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DURATION",
+                "value": "P4W"
+            },
+            "text": "the next two to four weeks",
+            "start": 290,
+            "end": 370,
+            "start_char": 173,
+            "end_char": 199
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "strain",
+            "start": 391,
+            "end": 440,
+            "start_char": 220,
+            "end_char": 226
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "averaged",
+            "start": 505,
+            "end": 556,
+            "start_char": 291,
+            "end_char": 299
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DURATION",
+                "value": "PT12.5M"
+            },
+            "text": "12.5 minutes",
+            "start": 588,
+            "end": 658,
+            "start_char": 331,
+            "end_char": 343
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e4"
+            },
+            "text": "had",
+            "start": 726,
+            "end": 767,
+            "start_char": 411,
+            "end_char": 414
+        },
+        "t4": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t4",
+                "type": "DATE",
+                "value": "2006-11-08"
+            },
+            "text": "Nov. 8",
+            "start": 834,
+            "end": 897,
+            "start_char": 481,
+            "end_char": 487
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "pick",
+            "start": 979,
+            "end": 1026,
+            "start_char": 569,
+            "end_char": 573
+        },
+        "t5": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t5",
+                "type": "DATE",
+                "value": "1998"
+            },
+            "text": "1998",
+            "start": 1030,
+            "end": 1085,
+            "start_char": 577,
+            "end_char": 581
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "averaged",
+            "start": 1114,
+            "end": 1165,
+            "start_char": 610,
+            "end_char": 618
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "NOUN",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "OTHER",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "NOUN",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei6": "e6"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t5",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei6",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t4",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

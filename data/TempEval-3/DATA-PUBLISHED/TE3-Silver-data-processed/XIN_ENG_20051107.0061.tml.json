@@ -1,0 +1,248 @@
+{
+    "file_name": "XIN_ENG_20051107.0061.tml",
+    "doc_text": "XIN_ENG_20051107.0061\n\nHANOI, Nov. 7 , 2005 (Xinhua)\n\nVietnam's stock market posts highest point since early 2005\n\n\n\n\nVietnam's stock market index, VN- Index, increased 1.44 points, or 0.45 percent, to 322.59, the highest point so far this year, on Monday with 126,660 million Vietnamese dong (VND) (8 million US dollars) worth of shares, bonds and investment certificates being traded.\n\nA total of 606,760 shares worth 22,953 million VND (nearly 1.5 million dollars), and 993,740 bonds totaling 101,984 VND (over 6.4 million dollars) changed hands at the Ho Chi Minh City Securities Trading Center on Monday. Meanwhile, 162,600 investment fund certificates valued at 1,723 million VND (109,000 dollars) were traded.\n\nNow, Vietnam has 30 kinds of listed shares, 289 kinds of listed bonds, mostly government bonds, and one listed investment fund, with combined face value of more than 36,432 billion VND (2.3 billion dollars).",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-11-07"
+            },
+            "text": "Nov. 7 , 2005",
+            "start": 30,
+            "end": 160,
+            "start_char": 30,
+            "end_char": 43
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "increased",
+            "start": 276,
+            "end": 328,
+            "start_char": 159,
+            "end_char": 168
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005"
+            },
+            "text": "this year",
+            "start": 395,
+            "end": 455,
+            "start_char": 235,
+            "end_char": 244
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2005-11-07"
+            },
+            "text": "Monday",
+            "start": 460,
+            "end": 523,
+            "start_char": 249,
+            "end_char": 255
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "traded",
+            "start": 647,
+            "end": 696,
+            "start_char": 379,
+            "end_char": 385
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "changed",
+            "start": 846,
+            "end": 896,
+            "start_char": 535,
+            "end_char": 542
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "2005-11-07"
+            },
+            "text": "Monday",
+            "start": 956,
+            "end": 1019,
+            "start_char": 602,
+            "end_char": 608
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "traded",
+            "start": 1120,
+            "end": 1169,
+            "start_char": 709,
+            "end_char": 715
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e6"
+            },
+            "text": "has",
+            "start": 1185,
+            "end": 1226,
+            "start_char": 731,
+            "end_char": 734
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "OTHER",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1000001",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei5": "e5",
+        "ei6": "e6",
+        "ei1000001": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei3",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei1000001",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t3",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei1000001",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei5",
+            "relType": "BEFORE"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

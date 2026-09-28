@@ -1,0 +1,102 @@
+{
+    "file_name": "XIN_ENG_20061112.0170.tml",
+    "doc_text": "XIN_ENG_20061112.0170\n\nROME, Nov. 12 , 2006 (Xinhua)\n\nItalian first division league top scorers\n\n\n\n\nFollowing are the top scorers of the Italian first division league after the soccer matches played on Sunday:\n\n8 Christian Rigano (Messina)\n\n6 Eugenio Corini (Palermo)\n\nAmauri (Palermo)\n\nRolando Bianchi (Reggina)\n\n5 Mario Frick (Siena)\n\nGiorgio Corona (Catania)\n\nAdrian Mutu (Fiorentina)\n\nCristiano Doni (Atalanta Bergamo)\n\nIgor Budan (Parma)\n\nFabio Quagliarella (Sampdoria)\n\nTommaso Rocchi (Lazio)\n\nDavid Di Michele (Palermo)\n\nGionatha Spinesi (Catania)\n\n4 Nicola Ventola (Atalanta Bergamo)\n\nFrancesco Totti (AS Roma)\n\nHernan Crespo (Inter Milan)\n\nDejan Stankovic (Inter Milan)\n\nMassimo Oddo (Lazio)\n\nLuca Toni (Fiorentina)\n\nVincenzo Iaquinta (Udinese)",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-12"
+            },
+            "text": "Nov. 12 , 2006",
+            "start": 29,
+            "end": 160,
+            "start_char": 29,
+            "end_char": 43
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "matches",
+            "start": 301,
+            "end": 351,
+            "start_char": 184,
+            "end_char": 191
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "played",
+            "start": 352,
+            "end": 401,
+            "start_char": 192,
+            "end_char": 198
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-12"
+            },
+            "text": "Sunday",
+            "start": 405,
+            "end": 468,
+            "start_char": 202,
+            "end_char": 208
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei3": "e3",
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei3",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

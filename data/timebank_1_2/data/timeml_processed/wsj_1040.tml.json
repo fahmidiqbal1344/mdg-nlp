@@ -1,0 +1,365 @@
+{
+    "file_name": "wsj_1040.tml",
+    "doc_text": "WSJ891026-0016 \n = 891026 \n 891026-0016. \n Dividend News:\n@  Oneida Ltd. \n 10/26/89 \n WALL STREET JOURNAL (J) \n OCQ \n DIVIDENDS (DIV) \n\n   ONEIDA Ltd. declared a 10% stock dividend, payable Dec. 15 to stock of record Nov. 17. \nThe Oneida, N.Y., maker of consumer, food-service and industrial products also declared a quarterly cash dividend of 12 cents a share, with the same payable and record dates. \nThe cash dividend paid on the common stock also will apply to the new shares, the company said. \nThe move rewards shareholders and should improve the stock's liquidity, Oneida said. \nThe company has about 8.8 million shares outstanding. \nIn New York Stock Exchange composite trading yesterday, Oneida's shares closed at $18.375 a share, unchanged.",
+    "tags": {
+        "t15": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t15",
+                "type": "DATE",
+                "value": "1989-10-26"
+            },
+            "text": "10/26/89",
+            "start": 75,
+            "end": 201,
+            "start_char": 75,
+            "end_char": 83
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1",
+                "stem": "declare"
+            },
+            "text": "declared",
+            "start": 269,
+            "end": 335,
+            "start_char": 151,
+            "end_char": 159
+        },
+        "e24": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e24",
+                "stem": "payable"
+            },
+            "text": "payable",
+            "start": 358,
+            "end": 419,
+            "start_char": 182,
+            "end_char": 189
+        },
+        "t16": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t15",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t16",
+                "type": "DATE",
+                "value": "1989-12-15"
+            },
+            "text": "Dec. 15",
+            "start": 420,
+            "end": 554,
+            "start_char": 190,
+            "end_char": 197
+        },
+        "t17": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t15",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t17",
+                "type": "DATE",
+                "value": "1989-11-17"
+            },
+            "text": "Nov. 17",
+            "start": 574,
+            "end": 708,
+            "start_char": 217,
+            "end_char": 224
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3",
+                "stem": "declare"
+            },
+            "text": "declared",
+            "start": 790,
+            "end": 856,
+            "start_char": 306,
+            "end_char": 314
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4",
+                "stem": "pay"
+            },
+            "text": "paid",
+            "start": 963,
+            "end": 1021,
+            "start_char": 421,
+            "end_char": 425
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6",
+                "stem": "apply"
+            },
+            "text": "apply",
+            "start": 1052,
+            "end": 1113,
+            "start_char": 456,
+            "end_char": 461
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e7",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 1145,
+            "end": 1202,
+            "start_char": 493,
+            "end_char": 497
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8",
+                "stem": "improve"
+            },
+            "text": "improve",
+            "start": 1246,
+            "end": 1311,
+            "start_char": 541,
+            "end_char": 548
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e10",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 1342,
+            "end": 1400,
+            "start_char": 579,
+            "end_char": 583
+        },
+        "e11": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e11",
+                "stem": "have"
+            },
+            "text": "has",
+            "start": 1415,
+            "end": 1474,
+            "start_char": 598,
+            "end_char": 601
+        },
+        "t63": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t15",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t63",
+                "type": "DATE",
+                "value": "1989-10-25"
+            },
+            "text": "yesterday",
+            "start": 1559,
+            "end": 1695,
+            "start_char": 686,
+            "end_char": 695
+        },
+        "e12": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e12",
+                "stem": "close"
+            },
+            "text": "closed",
+            "start": 1713,
+            "end": 1776,
+            "start_char": 713,
+            "end_char": 719
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e3",
+            "eiid": "ei68",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e1",
+            "eiid": "ei66",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e7",
+            "eiid": "ei71",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e10",
+            "eiid": "ei73",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e4",
+            "eiid": "ei69",
+            "tense": "PASTPART",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e6",
+            "eiid": "ei70",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e11",
+            "eiid": "ei74",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e8",
+            "eiid": "ei72",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB",
+            "modality": "should"
+        },
+        {
+            "eventID": "e24",
+            "eiid": "ei67",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "ADJECTIVE"
+        },
+        {
+            "eventID": "e12",
+            "eiid": "ei75",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        }
+    ],
+    "eiid2eventid": {
+        "ei68": "e3",
+        "ei66": "e1",
+        "ei71": "e7",
+        "ei73": "e10",
+        "ei69": "e4",
+        "ei70": "e6",
+        "ei74": "e11",
+        "ei72": "e8",
+        "ei67": "e24",
+        "ei75": "e12"
+    },
+    "tlinks": [
+        {
+            "lid": "l12",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei73",
+            "relatedToTime": "t15"
+        },
+        {
+            "lid": "l11",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei71",
+            "relatedToTime": "t15"
+        },
+        {
+            "lid": "l1",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei75",
+            "relatedToTime": "t63"
+        },
+        {
+            "lid": "l2",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei66",
+            "relatedToTime": "t15"
+        },
+        {
+            "lid": "l3",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei67",
+            "relatedToTime": "t16"
+        },
+        {
+            "lid": "l5",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei68",
+            "relatedToTime": "t15"
+        },
+        {
+            "lid": "l6",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei69",
+            "relatedToEventInstance": "ei70"
+        },
+        {
+            "lid": "l7",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei74",
+            "relatedToTime": "t15"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l8",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei71",
+            "subordinatedEventInstance": "ei70"
+        },
+        {
+            "lid": "l9",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei71",
+            "subordinatedEventInstance": "ei69"
+        },
+        {
+            "lid": "l10",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei73",
+            "subordinatedEventInstance": "ei72"
+        }
+    ],
+    "alinks": []
+}

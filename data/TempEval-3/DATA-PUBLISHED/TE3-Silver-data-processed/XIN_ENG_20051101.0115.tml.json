@@ -1,0 +1,129 @@
+{
+    "file_name": "XIN_ENG_20051101.0115.tml",
+    "doc_text": "XIN_ENG_20051101.0115\n\nBEIJING, Nov. 1 , 2005 (Xinhua)\n\nparliamentary guests\n\n\n\n\nXu Jialu, vice-chairman of the Standing Committee of China's National People's Congress (NPC), met here Tuesday separately with Belgian Defence Minister Andre Flahaut and his party, and a delegation of Secretary Generals of Party Groups in European Parliament led by Vula Tsetsi.\n\nThe two groups of guests are invited by the Chinese Ministry of National Defense, and the International Department of the Communist Party of China (CPC) Central Committee, respectively.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-11-01"
+            },
+            "text": "Nov. 1 , 2005",
+            "start": 32,
+            "end": 162,
+            "start_char": 32,
+            "end_char": 45
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "met",
+            "start": 293,
+            "end": 339,
+            "start_char": 176,
+            "end_char": 179
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-11-01"
+            },
+            "text": "Tuesday",
+            "start": 345,
+            "end": 409,
+            "start_char": 185,
+            "end_char": 192
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "led",
+            "start": 558,
+            "end": 604,
+            "start_char": 341,
+            "end_char": 344
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "invited",
+            "start": 651,
+            "end": 701,
+            "start_char": 391,
+            "end_char": 398
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

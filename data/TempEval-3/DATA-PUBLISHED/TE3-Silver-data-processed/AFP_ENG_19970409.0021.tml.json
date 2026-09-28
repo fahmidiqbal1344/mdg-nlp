@@ -1,0 +1,153 @@
+{
+    "file_name": "AFP_ENG_19970409.0021.tml",
+    "doc_text": "AFP_ENG_19970409.0021\n\nSINGAPORE, April 9 , 1997 (AFP)\n\nNoon rubber prices\n\n\n\n\nWednesday's noon rubber prices in Singapore cents per kilo provided by the Singapore Commodity Exchange:\n\nBuyers   Sellers\n\nInt 2 RSS May        169.00    170.00 Nominal (N)\n\nInt 3 RSS May        169.00    170.00 N\nInt 4 RSS May        163.75    164.75 N\nInt 5 RSS May        160.00    161.00 N\nNo. 1 Air Dried Sheet    189.00    191.00 N\n\nInt 1X Thin Pale Crepe    234.50    238.50 N\n\nInt 1 Thin Pale Crepe    228.50    232.50 N\n\nInt 2 Thin Pale Crepe    220.50    222.50 N\n\nInt 3 Thin Pale Crepe    215.50    217.50 N\n\nInt 2 Thin Brown Crepe    132.00    134.00 N\n\nInt 3 Thin Brown Crepe    130.00    132.00 N\n\nInt 4 Thin Brown Crepe    128.00    130.00 N\n\nSSR/SMR 20 May        163.00    165.00 N\n\nJune       164.00    166.00 N SSR 50   May 161.00    163.00 N\nJune       162.00    164.00 N",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "1997-04-09"
+            },
+            "text": "April 9 , 1997",
+            "start": 34,
+            "end": 165,
+            "start_char": 34,
+            "end_char": 48
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "1997-04-09"
+            },
+            "text": "Wednesday",
+            "start": 196,
+            "end": 262,
+            "start_char": 79,
+            "end_char": 88
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "provided",
+            "start": 312,
+            "end": 363,
+            "start_char": 138,
+            "end_char": 146
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "1997-04-09"
+            },
+            "text": "May        169.00    170.00 N",
+            "start": 481,
+            "end": 567,
+            "start_char": 264,
+            "end_char": 293
+        },
+        "t4": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t4",
+                "type": "DATE",
+                "value": "1997-04-09T04:00"
+            },
+            "text": "Int 4 RSS May        163.75    164.75 N",
+            "start": 568,
+            "end": 670,
+            "start_char": 294,
+            "end_char": 333
+        },
+        "t5": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t5",
+                "type": "DATE",
+                "value": "1997-04-09T05:00"
+            },
+            "text": "Int 5 RSS May        160.00    161.00 N",
+            "start": 671,
+            "end": 773,
+            "start_char": 334,
+            "end_char": 373
+        },
+        "t6": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t6",
+                "type": "DATE",
+                "value": "1997-04-09T01:00"
+            },
+            "text": "No. 1",
+            "start": 774,
+            "end": 842,
+            "start_char": 374,
+            "end_char": 379
+        },
+        "t8": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t8",
+                "type": "DATE",
+                "value": "1997-04-09"
+            },
+            "text": "June       164.00    166.00 N SSR 50   May 161.00    163.00 N",
+            "start": 1243,
+            "end": 1361,
+            "start_char": 780,
+            "end_char": 841
+        },
+        "t9": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t9",
+                "type": "DATE",
+                "value": "1997-04-09"
+            },
+            "text": "June       162.00    164.00 N",
+            "start": 1362,
+            "end": 1448,
+            "start_char": 842,
+            "end_char": 871
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

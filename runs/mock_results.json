@@ -1,0 +1,68 @@
+{
+  "config_hash": "dbff200e4cd8280733c1ad7c24cbac0b7845646399fcb553e5e818c40b47b7bc",
+  "config": {
+    "dataset": {
+      "init_params": {
+        "hf_location": "mdg-nlp/timex-recognition"
+      },
+      "name": "timex_hf",
+      "run_params": {}
+    },
+    "evaluators": [
+      {
+        "init_params": {
+          "case_insensitive": true,
+          "strip": true
+        },
+        "name": "temporal_expression_partial",
+        "run_params": {}
+      }
+    ],
+    "method": {
+      "init_params": {
+        "api_key_env": "OPENROUTER_API_KEY",
+        "model": "meta-llama/llama-4-maverick"
+      },
+      "name": "llama-3.1-openrouter-zero-shot-timex",
+      "run_params": {
+        "max_docs": 250,
+        "model": "meta-llama/llama-4-maverick",
+        "retries": 3,
+        "show_progress": true,
+        "sleep_ms": 500,
+        "timeout_sec": 60
+      }
+    }
+  },
+  "results": [
+    {
+      "dataset_name": "tempeval_3_silver",
+      "groups": {
+        "best_of": {
+          "char": {
+            "precision": 0.8281680462756701,
+            "recall": 0.7692509465064509,
+            "f1": 0.7976229860074664
+          },
+          "word": {
+            "precision": 0.7690781684202739,
+            "recall": 0.7200201313837677,
+            "f1": 0.7437410464349119
+          }
+        },
+        "hungarian": {
+          "char": {
+            "precision": 0.7140976697951575,
+            "recall": 0.6978773360418234,
+            "f1": 0.7058943358206374
+          },
+          "word": {
+            "precision": 0.6780334918492814,
+            "recall": 0.6737179487179488,
+            "f1": 0.6758688314755252
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+    "file_name": "XIN_ENG_20061102.0309.tml",
+    "doc_text": "XIN_ENG_20061102.0309\n\nWASHINGTON, Nov. 2 , 2006 (Xinhua)\n\nU.S. rates on 30-year mortgages drop to lowest level in a month\n\n\n\n\nRates on 30-year mortgages in the United States fell this week to the lowest level in a month as new data showed the economy has been slowing down, mortgage giant Freddie Mac reported Thursday.\n\nIn the week ending November 2, rates on 30-year, fixed-rate mortgages dropped to 6.31 percent from 6.40 percent last week. That was the lowest level since those rates averaged 6.30 percent four weeks ago.\n\nOther types of mortgages also declined this week.\n\nRates on 15-year, fixed-rate mortgages, a popular choice for refinancing, fell to 6.02 percent from 6.10 percent last week.\n\nRates on one-year adjustable rate mortgages (ARMs) decreased to 5.53 percent from 5.60 percent while rates on five-year ARMs were down to 6.05 percent from 6.14 percent.\n\nA year ago, 30-year mortgages averaged 6.31 percent, while 15- year mortgages stood at 5.85 percent, one-year ARMs were at 5.09 percent and the five-year ARMs at 5.76 percent.\n\nThe drops in mortgage rates came after reports showed the economy has been slowing, a development that could help reduce inflation pressures.\n\nLast Friday, the Commerce Department reported that the overall economy grew at a sluggish rate of 1.6 percent in the third quarter, the weakest pace in more than three years.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-02"
+            },
+            "text": "Nov. 2 , 2006",
+            "start": 35,
+            "end": 165,
+            "start_char": 35,
+            "end_char": 48
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "fell",
+            "start": 292,
+            "end": 339,
+            "start_char": 175,
+            "end_char": 179
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2006-W44"
+            },
+            "text": "this week",
+            "start": 340,
+            "end": 404,
+            "start_char": 180,
+            "end_char": 189
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "showed",
+            "start": 448,
+            "end": 497,
+            "start_char": 233,
+            "end_char": 239
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "slowing",
+            "start": 519,
+            "end": 569,
+            "start_char": 261,
+            "end_char": 268
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e4"
+            },
+            "text": "reported",
+            "start": 603,
+            "end": 653,
+            "start_char": 302,
+            "end_char": 310
+        },
+        "t4": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t4",
+                "type": "DATE",
+                "value": "2006-11-02"
+            },
+            "text": "Thursday",
+            "start": 654,
+            "end": 719,
+            "start_char": 311,
+            "end_char": 319
+        },
+        "t5": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t5",
+                "type": "DATE",
+                "value": "2006-11-02"
+            },
+            "text": "the week",
+            "start": 725,
+            "end": 790,
+            "start_char": 325,
+            "end_char": 333
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e5"
+            },
+            "text": "ending",
+            "start": 791,
+            "end": 839,
+            "start_char": 334,
+            "end_char": 340
+        },
+        "t6": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t6",
+                "type": "DATE",
+                "value": "2007-11-02"
+            },
+            "text": "November 2",
+            "start": 840,
+            "end": 907,
+            "start_char": 341,
+            "end_char": 351
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "dropped",
+            "start": 948,
+            "end": 998,
+            "start_char": 392,
+            "end_char": 399
+        },
+        "t8": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t8",
+                "type": "DATE",
+                "value": "2006-W43"
+            },
+            "text": "last week",
+            "start": 1033,
+            "end": 1097,
+            "start_char": 434,
+            "end_char": 443
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "averaged",
+            "start": 1143,
+            "end": 1194,
+            "start_char": 489,
+            "end_char": 497
+        },
+        "t9": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t9",
+                "type": "DATE",
+                "value": "2006-W40"
+            },
+            "text": "four weeks ago",
+            "start": 1208,
+            "end": 1277,
+            "start_char": 511,
+            "end_char": 525
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8"
+            },
+            "text": "declined",
+            "start": 1310,
+            "end": 1361,
+            "start_char": 558,
+            "end_char": 566
+        },
+        "t10": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t10",
+                "type": "DATE",
+                "value": "2006-W44"
+            },
+            "text": "this week",
+            "start": 1362,
+            "end": 1427,
+            "start_char": 567,
+            "end_char": 576
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9"
+            },
+            "text": "fell",
+            "start": 1504,
+            "end": 1551,
+            "start_char": 653,
+            "end_char": 657
+        },
+        "t12": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t12",
+                "type": "DATE",
+                "value": "2006-W43"
+            },
+            "text": "last week",
+            "start": 1586,
+            "end": 1651,
+            "start_char": 692,
+            "end_char": 701
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10"
+            },
+            "text": "decreased",
+            "start": 1705,
+            "end": 1758,
+            "start_char": 755,
+            "end_char": 764
+        },
+        "t15": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t15",
+                "type": "DATE",
+                "value": "2005"
+            },
+            "text": "A year ago",
+            "start": 1869,
+            "end": 1931,
+            "start_char": 875,
+            "end_char": 885
+        },
+        "e11": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e11"
+            },
+            "text": "averaged",
+            "start": 1951,
+            "end": 2003,
+            "start_char": 905,
+            "end_char": 913
+        },
+        "e12": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e12"
+            },
+            "text": "stood",
+            "start": 2043,
+            "end": 2087,
+            "start_char": 953,
+            "end_char": 958
+        },
+        "e13": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e13"
+            },
+            "text": "came",
+            "start": 2209,
+            "end": 2257,
+            "start_char": 1080,
+            "end_char": 1084
+        },
+        "e14": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e14"
+            },
+            "text": "showed",
+            "start": 2272,
+            "end": 2322,
+            "start_char": 1099,
+            "end_char": 1105
+        },
+        "e15": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e15"
+            },
+            "text": "slowing",
+            "start": 2344,
+            "end": 2395,
+            "start_char": 1127,
+            "end_char": 1134
+        },
+        "e17": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e17"
+            },
+            "text": "help",
+            "start": 2422,
+            "end": 2468,
+            "start_char": 1161,
+            "end_char": 1165
+        },
+        "e18": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e18"
+            },
+            "text": "reduce",
+            "start": 2469,
+            "end": 2519,
+            "start_char": 1166,
+            "end_char": 1172
+        },
+        "t20": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t20",
+                "type": "DATE",
+                "value": "2006-10-27"
+            },
+            "text": "Last Friday",
+            "start": 2542,
+            "end": 2611,
+            "start_char": 1195,
+            "end_char": 1206
+        },
+        "e19": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e19"
+            },
+            "text": "reported",
+            "start": 2637,
+            "end": 2688,
+            "start_char": 1232,
+            "end_char": 1240
+        },
+        "e20": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e20"
+            },
+            "text": "grew",
+            "start": 2714,
+            "end": 2762,
+            "start_char": 1266,
+            "end_char": 1270
+        },
+        "t21": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t21",
+                "type": "DATE",
+                "value": "2006-Q3"
+            },
+            "text": "the third quarter",
+            "start": 2800,
+            "end": 2872,
+            "start_char": 1308,
+            "end_char": 1325
+        },
+        "t22": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t22",
+                "type": "DURATION",
+                "value": "P3Y"
+            },
+            "text": "more than three years",
+            "start": 2894,
+            "end": 2970,
+            "start_char": 1347,
+            "end_char": 1368
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei20",
+            "eventID": "e20",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei10",
+            "eventID": "e10",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1000005",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei11",
+            "eventID": "e11",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei12",
+            "eventID": "e12",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei13",
+            "eventID": "e13",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei14",
+            "eventID": "e14",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei15",
+            "eventID": "e15",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei17",
+            "eventID": "e17",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei6",
+            "eventID": "e6",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei18",
+            "eventID": "e18",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei19",
+            "eventID": "e19",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei9",
+            "eventID": "e9",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei20": "e20",
+        "ei10": "e10",
+        "ei1000005": "e5",
+        "ei11": "e11",
+        "ei12": "e12",
+        "ei13": "e13",
+        "ei14": "e14",
+        "ei4": "e4",
+        "ei15": "e15",
+        "ei5": "e5",
+        "ei17": "e17",
+        "ei6": "e6",
+        "ei18": "e18",
+        "ei7": "e7",
+        "ei8": "e8",
+        "ei19": "e19",
+        "ei9": "e9"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei13",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei11",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei10",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei8",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei11",
+            "relatedToTime": "t15",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei13",
+            "relatedToEventInstance": "ei15",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l10",
+            "eventInstanceID": "ei13",
+            "relatedToEventInstance": "ei17",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l11",
+            "eventInstanceID": "ei13",
+            "relatedToEventInstance": "ei18",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l12",
+            "eventInstanceID": "ei11",
+            "relatedToEventInstance": "ei13",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l13",
+            "eventInstanceID": "ei13",
+            "relatedToEventInstance": "ei19",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l14",
+            "eventInstanceID": "ei19",
+            "relatedToEventInstance": "ei20",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l15",
+            "eventInstanceID": "ei19",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l16",
+            "eventInstanceID": "ei19",
+            "relatedToTime": "t20",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l17",
+            "eventInstanceID": "ei7",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l18",
+            "eventInstanceID": "ei9",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l19",
+            "eventInstanceID": "ei9",
+            "relatedToEventInstance": "ei10",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l20",
+            "eventInstanceID": "ei8",
+            "relatedToEventInstance": "ei9",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l21",
+            "eventInstanceID": "ei9",
+            "relatedToTime": "t12",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l22",
+            "eventInstanceID": "ei7",
+            "relatedToEventInstance": "ei8",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l23",
+            "eventInstanceID": "ei8",
+            "relatedToTime": "t10",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l24",
+            "eventInstanceID": "ei7",
+            "relatedToTime": "t9",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l25",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei7",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l26",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t8",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l27",
+            "eventInstanceID": "ei10",
+            "relatedToEventInstance": "ei11",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l28",
+            "eventInstanceID": "ei11",
+            "relatedToEventInstance": "ei12",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l29",
+            "eventInstanceID": "ei20",
+            "relatedToTime": "t21",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l30",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t4",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l31",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l32",
+            "eventInstanceID": "ei6",
+            "relatedToTime": "t5",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l33",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei4",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l34",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t5",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l35",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei6",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l36",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei4",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l37",
+            "eventInstanceID": "ei3",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l38",
+            "eventInstanceID": "ei6",
+            "relatedToEventInstance": "ei1000005",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l39",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei6",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l40",
+            "eventInstanceID": "ei1000005",
+            "relatedToTime": "t6",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l41",
+            "eventInstanceID": "ei13",
+            "relatedToEventInstance": "ei14",
+            "relType": "AFTER"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

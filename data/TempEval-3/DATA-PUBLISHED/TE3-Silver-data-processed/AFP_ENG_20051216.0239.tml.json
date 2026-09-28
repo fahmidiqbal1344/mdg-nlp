@@ -1,0 +1,75 @@
+{
+    "file_name": "AFP_ENG_20051216.0239.tml",
+    "doc_text": "AFP_ENG_20051216.0239\n\nVAL GARDENA, Italy, Dec 16 , 2005\n\nURGENT Grugger wins World Cup Super-G in Italy\n\n\n\n\nAustria's Hans Grugger won the men's World Cup Super-G race here on Friday ahead of Canadian Erik Guay and Ambrosi Hoffmann of Switzerland.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-12-16"
+            },
+            "text": "Dec 16 , 2005",
+            "start": 43,
+            "end": 173,
+            "start_char": 43,
+            "end_char": 56
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "won",
+            "start": 249,
+            "end": 295,
+            "start_char": 132,
+            "end_char": 135
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-12-16"
+            },
+            "text": "Friday",
+            "start": 337,
+            "end": 400,
+            "start_char": 177,
+            "end_char": 183
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

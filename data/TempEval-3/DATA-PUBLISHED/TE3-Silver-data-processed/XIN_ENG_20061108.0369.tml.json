@@ -1,0 +1,56 @@
+{
+    "file_name": "XIN_ENG_20061108.0369.tml",
+    "doc_text": "XIN_ENG_20061108.0369\n\nMEXICO CITY, Nov. 8 , 2006 (Xinhua)\n\nDEMOCRATS WIN CONTROL OF SENATE: AP\n\n\n\n\nDEMOCRATS WIN CONTROL OF SENATE: AP",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-08"
+            },
+            "text": "Nov. 8 , 2006",
+            "start": 36,
+            "end": 166,
+            "start_char": 36,
+            "end_char": 49
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "WIN",
+            "start": 227,
+            "end": 273,
+            "start_char": 110,
+            "end_char": 113
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

@@ -1,0 +1,4 @@
+task,dimension,key1,key2,p_val,sig_val,better_model,better_f1,worse_model,worse_f1
+time,length,t5,gpt2,0.27,,gpt2,0.8358,t5,0.8294
+time,length,roberta,gpt2,0.0,***,roberta,0.8874,gpt2,0.8358
+time,length,roberta,t5,0.0,***,roberta,0.8874,t5,0.8294

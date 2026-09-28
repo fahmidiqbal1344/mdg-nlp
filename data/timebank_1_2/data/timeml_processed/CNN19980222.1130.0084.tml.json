@@ -1,0 +1,612 @@
+{
+    "file_name": "CNN19980222.1130.0084.tml",
+    "doc_text": "CNN19980222.1130.0084 \n NEWS STORY \n\n\n\n\n\n CNN headline news, I'm Sachi Koto.\n Diplomacy appears  to  be making headway in resolving the united nation's\n standoff with Iraq.\n A UN spokesman says UN secretary general Kofi Annan is on the verge of\n a breakthrough, but added it's not done yet.\n Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein\n in Baghdad today.\n He's expected  to meet with Iraqi deputy prime minister Tariq Aziz later\n this afternoon. One major sticking point has been Iraq's proposal  to open it's presidential sites for no more than sixty days.\n The UN security council insists any deal must allow UN inspectors unrestricted access to all suspected weapons sites.",
+    "tags": {
+        "t16": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t16",
+                "type": "DATE",
+                "value": "1998-02-22"
+            },
+            "text": "19980222",
+            "start": 3,
+            "end": 129,
+            "start_char": 3,
+            "end_char": 11
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e1"
+            },
+            "text": "appears",
+            "start": 206,
+            "end": 253,
+            "start_char": 88,
+            "end_char": 95
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e2"
+            },
+            "text": "making",
+            "start": 262,
+            "end": 309,
+            "start_char": 104,
+            "end_char": 110
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e4"
+            },
+            "text": "resolving",
+            "start": 321,
+            "end": 371,
+            "start_char": 122,
+            "end_char": 131
+        },
+        "e96": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e96"
+            },
+            "text": "standoff",
+            "start": 393,
+            "end": 445,
+            "start_char": 153,
+            "end_char": 161
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e5"
+            },
+            "text": "says",
+            "start": 473,
+            "end": 519,
+            "start_char": 189,
+            "end_char": 193
+        },
+        "e142": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e142"
+            },
+            "text": "on",
+            "start": 555,
+            "end": 597,
+            "start_char": 229,
+            "end_char": 231
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e6"
+            },
+            "text": "added",
+            "start": 632,
+            "end": 679,
+            "start_char": 266,
+            "end_char": 271
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "done",
+            "start": 689,
+            "end": 736,
+            "start_char": 281,
+            "end_char": 285
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e8"
+            },
+            "text": "wrapped",
+            "start": 749,
+            "end": 798,
+            "start_char": 298,
+            "end_char": 305
+        },
+        "t122": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "NONE",
+                "temporalFunction": "false",
+                "tid": "t122",
+                "type": "DURATION",
+                "value": "PT3H"
+            },
+            "text": "three hour",
+            "start": 804,
+            "end": 922,
+            "start_char": 311,
+            "end_char": 321
+        },
+        "e35": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e35"
+            },
+            "text": "meeting",
+            "start": 923,
+            "end": 974,
+            "start_char": 322,
+            "end_char": 329
+        },
+        "t18": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t16",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t18",
+                "type": "DATE",
+                "value": "1998-02-22"
+            },
+            "text": "today",
+            "start": 1023,
+            "end": 1155,
+            "start_char": 378,
+            "end_char": 383
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e9"
+            },
+            "text": "expected",
+            "start": 1163,
+            "end": 1211,
+            "start_char": 391,
+            "end_char": 399
+        },
+        "e73": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e73"
+            },
+            "text": "meet",
+            "start": 1216,
+            "end": 1264,
+            "start_char": 404,
+            "end_char": 408
+        },
+        "t64": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t16",
+                "functionInDocument": "NONE",
+                "mod": "END",
+                "temporalFunction": "true",
+                "tid": "t64",
+                "type": "DATE",
+                "value": "1998-02-22TAF"
+            },
+            "text": "later\n this afternoon",
+            "start": 1309,
+            "end": 1470,
+            "start_char": 453,
+            "end_char": 474
+        },
+        "e129": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e129"
+            },
+            "text": "proposal",
+            "start": 1513,
+            "end": 1564,
+            "start_char": 517,
+            "end_char": 525
+        },
+        "e46": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e46"
+            },
+            "text": "open",
+            "start": 1569,
+            "end": 1617,
+            "start_char": 530,
+            "end_char": 534
+        },
+        "t70": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "NONE",
+                "mod": "EQUAL_OR_LESS",
+                "temporalFunction": "false",
+                "tid": "t70",
+                "type": "DURATION",
+                "value": "P60D"
+            },
+            "text": "no more than sixty days",
+            "start": 1646,
+            "end": 1796,
+            "start_char": 563,
+            "end_char": 586
+        },
+        "e13": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e13"
+            },
+            "text": "insists",
+            "start": 1823,
+            "end": 1872,
+            "start_char": 613,
+            "end_char": 620
+        },
+        "e140": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e140"
+            },
+            "text": "deal",
+            "start": 1877,
+            "end": 1924,
+            "start_char": 625,
+            "end_char": 629
+        },
+        "e14": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e14"
+            },
+            "text": "allow",
+            "start": 1930,
+            "end": 1976,
+            "start_char": 635,
+            "end_char": 640
+        },
+        "e141": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e141"
+            },
+            "text": "access",
+            "start": 2004,
+            "end": 2055,
+            "start_char": 668,
+            "end_char": 674
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e1",
+            "eiid": "ei156",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e2",
+            "eiid": "ei157",
+            "tense": "PRESPART",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e4",
+            "eiid": "ei158",
+            "tense": "PRESPART",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e96",
+            "eiid": "ei159",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e5",
+            "eiid": "ei160",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e6",
+            "eiid": "ei162",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e7",
+            "eiid": "ei163",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "NEG",
+            "pos": "ADJECTIVE"
+        },
+        {
+            "eventID": "e8",
+            "eiid": "ei164",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e35",
+            "eiid": "ei165",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e9",
+            "eiid": "ei166",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e73",
+            "eiid": "ei167",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e129",
+            "eiid": "ei168",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e46",
+            "eiid": "ei169",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e13",
+            "eiid": "ei170",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e140",
+            "eiid": "ei171",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e14",
+            "eiid": "ei172",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB",
+            "modality": "must"
+        },
+        {
+            "eventID": "e141",
+            "eiid": "ei173",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e142",
+            "eiid": "ei174",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "PREPOSITION"
+        }
+    ],
+    "eiid2eventid": {
+        "ei156": "e1",
+        "ei157": "e2",
+        "ei158": "e4",
+        "ei159": "e96",
+        "ei160": "e5",
+        "ei162": "e6",
+        "ei163": "e7",
+        "ei164": "e8",
+        "ei165": "e35",
+        "ei166": "e9",
+        "ei167": "e73",
+        "ei168": "e129",
+        "ei169": "e46",
+        "ei170": "e13",
+        "ei171": "e140",
+        "ei172": "e14",
+        "ei173": "e141",
+        "ei174": "e142"
+    },
+    "tlinks": [
+        {
+            "lid": "l23",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei172",
+            "relatedToEventInstance": "ei171"
+        },
+        {
+            "lid": "l22",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei170",
+            "relatedToTime": "t64"
+        },
+        {
+            "lid": "l21",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei166",
+            "relatedToTime": "t64"
+        },
+        {
+            "lid": "l20",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei174",
+            "relatedToTime": "t16"
+        },
+        {
+            "lid": "l19",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei156",
+            "relatedToTime": "t16"
+        },
+        {
+            "lid": "l1",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei160",
+            "relatedToEventInstance": "ei162"
+        },
+        {
+            "lid": "l2",
+            "relType": "DURING",
+            "eventInstanceID": "ei165",
+            "relatedToTime": "t122"
+        },
+        {
+            "lid": "l3",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei157",
+            "relatedToEventInstance": "ei158"
+        },
+        {
+            "lid": "l4",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei168",
+            "relatedToTime": "t16"
+        },
+        {
+            "lid": "l5",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei167",
+            "relatedToTime": "t64"
+        },
+        {
+            "lid": "l6",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei164",
+            "relatedToTime": "t18"
+        },
+        {
+            "lid": "l7",
+            "relType": "DURING",
+            "eventInstanceID": "ei169",
+            "relatedToTime": "t70"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l18",
+            "relType": "FACTIVE",
+            "eventInstanceID": "ei172",
+            "subordinatedEventInstance": "ei171"
+        },
+        {
+            "lid": "l17",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei160",
+            "subordinatedEventInstance": "ei174"
+        },
+        {
+            "lid": "l8",
+            "relType": "MODAL",
+            "eventInstanceID": "ei172",
+            "subordinatedEventInstance": "ei173"
+        },
+        {
+            "lid": "l9",
+            "relType": "MODAL",
+            "eventInstanceID": "ei168",
+            "subordinatedEventInstance": "ei169"
+        },
+        {
+            "lid": "l10",
+            "relType": "MODAL",
+            "eventInstanceID": "ei166",
+            "subordinatedEventInstance": "ei167"
+        },
+        {
+            "lid": "l11",
+            "relType": "FACTIVE",
+            "eventInstanceID": "ei158",
+            "subordinatedEventInstance": "ei159"
+        },
+        {
+            "lid": "l12",
+            "relType": "MODAL",
+            "eventInstanceID": "ei170",
+            "subordinatedEventInstance": "ei172"
+        },
+        {
+            "lid": "l13",
+            "relType": "MODAL",
+            "eventInstanceID": "ei156",
+            "subordinatedEventInstance": "ei157"
+        },
+        {
+            "lid": "l14",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei162",
+            "subordinatedEventInstance": "ei163"
+        }
+    ],
+    "alinks": [
+        {
+            "lid": "l16",
+            "relType": "TERMINATES",
+            "eventInstanceID": "ei158",
+            "relatedToEventInstance": "ei159"
+        },
+        {
+            "lid": "l15",
+            "relType": "CULMINATES",
+            "eventInstanceID": "ei164",
+            "relatedToEventInstance": "ei165"
+        }
+    ]
+}

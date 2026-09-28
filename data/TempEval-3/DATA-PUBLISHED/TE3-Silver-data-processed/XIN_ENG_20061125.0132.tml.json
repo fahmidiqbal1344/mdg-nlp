@@ -1,0 +1,209 @@
+{
+    "file_name": "XIN_ENG_20061125.0132.tml",
+    "doc_text": "XIN_ENG_20061125.0132\n\nDOHA, Nov. 25 , 2006 (Xinhua)\n\nDraws for women's table tennis team event of Asian Games\n\n\n\n\nFollowing are the draws for the women 's table tennis team event of the 15th Asian Games here released on Saturday:\n\nGroup A: DPR Korea, Uzbekistan, India\n\nGroup B: China, Hong Kong of China, Vietnam, Kuwait\n\nGroup C: Japan, South Korea, Lebanon, Mongolia\n\nGroup D: Singapore, Thailand, Macau of China, Tajikistan\n\nNote: Top two finishers advance to the next stage. The women's team event of the Doha Asiad is slated from November 29 to December 3.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-25"
+            },
+            "text": "Nov. 25 , 2006",
+            "start": 29,
+            "end": 160,
+            "start_char": 29,
+            "end_char": 43
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "draws",
+            "start": 250,
+            "end": 298,
+            "start_char": 133,
+            "end_char": 138
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "released",
+            "start": 369,
+            "end": 420,
+            "start_char": 209,
+            "end_char": 217
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-11-25"
+            },
+            "text": "Saturday",
+            "start": 424,
+            "end": 489,
+            "start_char": 221,
+            "end_char": 229
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "advance",
+            "start": 714,
+            "end": 764,
+            "start_char": 454,
+            "end_char": 461
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "slated",
+            "start": 828,
+            "end": 877,
+            "start_char": 525,
+            "end_char": 531
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2006-11-29"
+            },
+            "text": "November 29",
+            "start": 883,
+            "end": 951,
+            "start_char": 537,
+            "end_char": 548
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "2006-12-03"
+            },
+            "text": "December 3",
+            "start": 955,
+            "end": 1022,
+            "start_char": 552,
+            "end_char": 562
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1000005",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1000005": "e5",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei1000005",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1000005",
+            "relatedToTime": "t3",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei3",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

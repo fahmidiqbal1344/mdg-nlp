@@ -1,0 +1,148 @@
+{
+    "file_name": "XIN_ENG_20051101.0326.tml",
+    "doc_text": "XIN_ENG_20051101.0326\n\nBEIJING, Nov. 2 , 2005 (Xinhua)\n\nCPPCC vice-chairman meets Austrian defence minister\n\n\n\n\nWang Zhongyu, vice-chairman of the National Committee of the Chinese People's Political Consultative Conference (CPPCC), met here Wednesday with Austrian Defence Minister Gunther Platter.\n\nPlatter and his party arrived in Beijing Monday for an official visit to China at the invitation of his Chinese counterpart Cao Gangchuan.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-11-02"
+            },
+            "text": "Nov. 2 , 2005",
+            "start": 32,
+            "end": 162,
+            "start_char": 32,
+            "end_char": 45
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "met",
+            "start": 350,
+            "end": 396,
+            "start_char": 233,
+            "end_char": 236
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-11-02"
+            },
+            "text": "Wednesday",
+            "start": 402,
+            "end": 468,
+            "start_char": 242,
+            "end_char": 251
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "arrived",
+            "start": 540,
+            "end": 590,
+            "start_char": 323,
+            "end_char": 330
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2005-10-31"
+            },
+            "text": "Monday",
+            "start": 602,
+            "end": 665,
+            "start_char": 342,
+            "end_char": 348
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "visit",
+            "start": 682,
+            "end": 730,
+            "start_char": 365,
+            "end_char": 370
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei3": "e3",
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei3",
+            "relType": "AFTER"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

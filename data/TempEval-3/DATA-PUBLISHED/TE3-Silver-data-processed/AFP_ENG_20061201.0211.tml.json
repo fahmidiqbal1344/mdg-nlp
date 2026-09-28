@@ -1,0 +1,75 @@
+{
+    "file_name": "AFP_ENG_20061201.0211.tml",
+    "doc_text": "AFP_ENG_20061201.0211\n\nKIEV, Dec 1 , 2006, 2006\n\nURGENT  Ukraine's parliament sacks pro-West foreign minister\n\n\n\n\nThe pro-Russian majority in Ukraine's parliament on Friday sacked Foreign Minister Boris Tarasyuk, a key pro-Western politician and major proponent of NATO accession for this ex-Soviet republic.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-12-01"
+            },
+            "text": "Dec 1 , 2006",
+            "start": 29,
+            "end": 158,
+            "start_char": 29,
+            "end_char": 41
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-12-01"
+            },
+            "text": "Friday",
+            "start": 283,
+            "end": 346,
+            "start_char": 166,
+            "end_char": 172
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "sacked",
+            "start": 347,
+            "end": 396,
+            "start_char": 173,
+            "end_char": 179
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

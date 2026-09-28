@@ -1,0 +1,100 @@
+{
+    "file_name": "XIN_ENG_20051105.0075.tml",
+    "doc_text": "XIN_ENG_20051105.0075\n\nHONG KONG, Nov. 5 , 2005 (Xinhua)\n\nResults from Hong Kong Open badminton\n\n\n\n\nFollowing are the results from the 250,000 US dollar Hong Kong Open badminton championship here Saturday (prefxi number denotes seeding):\n\nMen's singles\n\nSemi-finals\n\n1-Lin Dan, China, bt 4-Lee Chong-wei, Malaysia, 15-4, 15-6.\n\nWomen's singles\n\nSemi-finals\n\n1-Zhang Ning, China, bt 4-Pi Hongyan, France, 11-3, 13-11",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-11-05"
+            },
+            "text": "Nov. 5 , 2005",
+            "start": 34,
+            "end": 164,
+            "start_char": 34,
+            "end_char": 47
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e2"
+            },
+            "text": "results",
+            "start": 235,
+            "end": 280,
+            "start_char": 118,
+            "end_char": 125
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-11-12"
+            },
+            "text": "Saturday",
+            "start": 351,
+            "end": 416,
+            "start_char": 196,
+            "end_char": 204
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4"
+            },
+            "text": "seeding",
+            "start": 440,
+            "end": 490,
+            "start_char": 228,
+            "end_char": 235
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2005-11-05"
+            },
+            "text": "13-11",
+            "start": 665,
+            "end": 727,
+            "start_char": 410,
+            "end_char": 415
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "NOUN",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

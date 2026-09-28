@@ -1,0 +1,102 @@
+{
+    "file_name": "AFP_ENG_20061214.0561.tml",
+    "doc_text": "AFP_ENG_20061214.0561\n\nJOHANNESBURG, Dec 14 , 2006, 2006\n\nSouth African cricket championship scores\n\n\n\n\nScores after first day of South African four-day cricket championship matches on Thursday:\n\nAt Newlands, Cape Town\n\nCape Cobras v Highveld Lions\n\nLions 287-3 in 94 overs (N.McKenzie 135, J.Ontong 120 no; M.Zondeki 2-31)\n\nAt Goodyear Park, Bloemfontein\n\nFree State Eagles v KwaZulu-Natal Dolphins\n\nEagles 262-3 in 90.1 overs (H.Dippenaar 71 no, M. van Wyk 57 no)\n\nAt SuperSport Park, Centurion\n\nNorthern Titans v Eastern Cape Warriors\n\nWarriors 268-8 in 85 overs (M.Goodwin 77, A.Jacobs 70; J.Morkel 4-47)",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-12-14"
+            },
+            "text": "Dec 14 , 2006",
+            "start": 37,
+            "end": 167,
+            "start_char": 37,
+            "end_char": 50
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "matches",
+            "start": 291,
+            "end": 341,
+            "start_char": 174,
+            "end_char": 181
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "2006-12-21"
+            },
+            "text": "Thursday",
+            "start": 345,
+            "end": 410,
+            "start_char": 185,
+            "end_char": 193
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "v",
+            "start": 731,
+            "end": 775,
+            "start_char": 514,
+            "end_char": 515
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t3",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "BEFORE"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

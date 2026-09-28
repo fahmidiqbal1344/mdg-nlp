@@ -1,0 +1,326 @@
+{
+    "file_name": "wsj_0006.tml",
+    "doc_text": "WSJ891102-0188 \n = 891102 \n 891102-0188. \n Pacific First Financial Corp. \n 11/02/89 \n WALL STREET JOURNAL (J) \n PFFS T.RYL \n TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)\nSAVINGS AND LOANS, THRIFTS, CREDIT UNIONS (SAL) \n SEATTLE  \n\n   Pacific First Financial Corp. said shareholders approved its acquisition by Royal Trustco Ltd. of Toronto for $27 a share, or $212 million. \n\n   The thrift holding company said it expects  to obtain regulatory approval and complete the transaction by year-end.",
+    "tags": {
+        "t9": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t9",
+                "type": "DATE",
+                "value": "1989-11-02"
+            },
+            "text": "11/02/89",
+            "start": 75,
+            "end": 200,
+            "start_char": 75,
+            "end_char": 83
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1"
+            },
+            "text": "said",
+            "start": 379,
+            "end": 425,
+            "start_char": 262,
+            "end_char": 266
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "approved",
+            "start": 439,
+            "end": 490,
+            "start_char": 280,
+            "end_char": 288
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8"
+            },
+            "text": "acquisition",
+            "start": 495,
+            "end": 549,
+            "start_char": 293,
+            "end_char": 304
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e4"
+            },
+            "text": "said",
+            "start": 649,
+            "end": 695,
+            "start_char": 404,
+            "end_char": 408
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e5"
+            },
+            "text": "expects",
+            "start": 699,
+            "end": 746,
+            "start_char": 412,
+            "end_char": 419
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "obtain",
+            "start": 751,
+            "end": 800,
+            "start_char": 424,
+            "end_char": 430
+        },
+        "e19": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e19"
+            },
+            "text": "approval",
+            "start": 812,
+            "end": 864,
+            "start_char": 442,
+            "end_char": 450
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e7"
+            },
+            "text": "complete",
+            "start": 869,
+            "end": 919,
+            "start_char": 455,
+            "end_char": 463
+        },
+        "e20": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e20"
+            },
+            "text": "transaction",
+            "start": 924,
+            "end": 979,
+            "start_char": 468,
+            "end_char": 479
+        },
+        "s12": {
+            "tag": "SIGNAL",
+            "attributes": {
+                "sid": "s12"
+            },
+            "text": "by",
+            "start": 980,
+            "end": 1009,
+            "start_char": 480,
+            "end_char": 482
+        },
+        "t10": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t9",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t10",
+                "type": "DATE",
+                "value": "1989-12-31"
+            },
+            "text": "year-end",
+            "start": 1010,
+            "end": 1144,
+            "start_char": 483,
+            "end_char": 491
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e19",
+            "eiid": "ei79",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e4",
+            "eiid": "ei76",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e5",
+            "eiid": "ei77",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e1",
+            "eiid": "ei73",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e20",
+            "eiid": "ei81",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e2",
+            "eiid": "ei74",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e7",
+            "eiid": "ei80",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e6",
+            "eiid": "ei78",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e8",
+            "eiid": "ei75",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        }
+    ],
+    "eiid2eventid": {
+        "ei79": "e19",
+        "ei76": "e4",
+        "ei77": "e5",
+        "ei73": "e1",
+        "ei81": "e20",
+        "ei74": "e2",
+        "ei80": "e7",
+        "ei78": "e6",
+        "ei75": "e8"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei80",
+            "relatedToTime": "t10",
+            "signalID": "s12"
+        },
+        {
+            "lid": "l2",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei73",
+            "relatedToTime": "t9"
+        },
+        {
+            "lid": "l3",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei74",
+            "relatedToEventInstance": "ei73"
+        },
+        {
+            "lid": "l4",
+            "relType": "AFTER",
+            "eventInstanceID": "ei74",
+            "relatedToEventInstance": "ei75"
+        },
+        {
+            "lid": "l5",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei76",
+            "relatedToEventInstance": "ei73"
+        },
+        {
+            "lid": "l6",
+            "relType": "ENDS",
+            "eventInstanceID": "ei80",
+            "relatedToEventInstance": "ei81"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l13",
+            "relType": "MODAL",
+            "eventInstanceID": "ei74",
+            "subordinatedEventInstance": "ei75"
+        },
+        {
+            "lid": "l7",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei73",
+            "subordinatedEventInstance": "ei74"
+        },
+        {
+            "lid": "l8",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei76",
+            "subordinatedEventInstance": "ei77"
+        },
+        {
+            "lid": "l9",
+            "relType": "MODAL",
+            "eventInstanceID": "ei77",
+            "subordinatedEventInstance": "ei78"
+        },
+        {
+            "lid": "l10",
+            "relType": "FACTIVE",
+            "eventInstanceID": "ei78",
+            "subordinatedEventInstance": "ei79"
+        },
+        {
+            "lid": "l11",
+            "relType": "MODAL",
+            "eventInstanceID": "ei77",
+            "subordinatedEventInstance": "ei80"
+        }
+    ],
+    "alinks": [
+        {
+            "lid": "l12",
+            "relType": "CULMINATES",
+            "eventInstanceID": "ei80",
+            "relatedToEventInstance": "ei81"
+        }
+    ]
+}

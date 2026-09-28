@@ -1,0 +1,101 @@
+{
+    "file_name": "AFP_ENG_19970428.0172.tml",
+    "doc_text": "AFP_ENG_19970428.0172\n\nSINGAPORE, April 28 , 1997 (AFP)\n\nEvening rubber prices\n\n\n\n\nMonday's evening rubber prices in Singapore cents per kilo provided by the Singapore Commodity Exchange:\n\nBuyers    Sellers\n\nInt 2 RSS May         156.50    157.50 Nominal (N)\n\nInt 3 RSS May         156.50    157.50 N\nInt 4 RSS May         151.25    152.25 N\n\nInt 5 RSS           147.50    148.50 N\n\nNo. 1 Air Dried Sheet     176.50    178.50 N",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "1997-04-28"
+            },
+            "text": "April 28 , 1997",
+            "start": 34,
+            "end": 166,
+            "start_char": 34,
+            "end_char": 49
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "1997-04-28"
+            },
+            "text": "Monday",
+            "start": 200,
+            "end": 263,
+            "start_char": 83,
+            "end_char": 89
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "provided",
+            "start": 316,
+            "end": 367,
+            "start_char": 142,
+            "end_char": 150
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "1997-04-28"
+            },
+            "text": "May         156.50    157.50 N",
+            "start": 487,
+            "end": 574,
+            "start_char": 270,
+            "end_char": 300
+        },
+        "t4": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t4",
+                "type": "DATE",
+                "value": "1997-04-28T04:00"
+            },
+            "text": "Int 4 RSS May         151.25",
+            "start": 575,
+            "end": 666,
+            "start_char": 301,
+            "end_char": 329
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

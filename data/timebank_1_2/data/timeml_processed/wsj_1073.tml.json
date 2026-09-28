@@ -1,0 +1,197 @@
+{
+    "file_name": "wsj_1073.tml",
+    "doc_text": "WSJ891025-0157 \n = 891025 \n 891025-0157. \n Advanced Medical Makes Purchase \n 10/25/89 \n WALL STREET JOURNAL (J) \n AMA HENG \n TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)\nMEDICAL AND BIOTECHNOLOGY (MTC) \n SAN FRANCISCO  \n\n   Advanced Medical Technologies Inc. said it purchased 93% of a unit of Henley Group Inc. \n\n   Advanced Medical paid $106 million in cash for its share in a unit of Henley's Fisher Scientific subsidiary. \nThe unit makes intravenous pumps used by hospitals and had more than $110 million in sales last year, according to Advanced Medical.",
+    "tags": {
+        "t11": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t11",
+                "type": "DATE",
+                "value": "1989-10-25"
+            },
+            "text": "10/25/89",
+            "start": 77,
+            "end": 203,
+            "start_char": 77,
+            "end_char": 85
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e2",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 375,
+            "end": 432,
+            "start_char": 257,
+            "end_char": 261
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3",
+                "stem": "purchase"
+            },
+            "text": "purchased",
+            "start": 436,
+            "end": 504,
+            "start_char": 265,
+            "end_char": 274
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4",
+                "stem": "pay"
+            },
+            "text": "paid",
+            "start": 562,
+            "end": 620,
+            "start_char": 332,
+            "end_char": 336
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9",
+                "stem": "have"
+            },
+            "text": "had",
+            "start": 764,
+            "end": 822,
+            "start_char": 480,
+            "end_char": 483
+        },
+        "e30": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e30",
+                "stem": "sale"
+            },
+            "text": "sales",
+            "start": 849,
+            "end": 910,
+            "start_char": 510,
+            "end_char": 515
+        },
+        "t31": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t11",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t31",
+                "type": "DATE",
+                "value": "1988"
+            },
+            "text": "last year",
+            "start": 911,
+            "end": 1041,
+            "start_char": 516,
+            "end_char": 525
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e2",
+            "eiid": "ei1989",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e3",
+            "eiid": "ei1990",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e4",
+            "eiid": "ei1991",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e9",
+            "eiid": "ei1992",
+            "tense": "PAST",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e30",
+            "eiid": "ei1993",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1989": "e2",
+        "ei1990": "e3",
+        "ei1991": "e4",
+        "ei1992": "e9",
+        "ei1993": "e30"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei1992",
+            "relatedToEventInstance": "ei1993",
+            "origin": "USER"
+        },
+        {
+            "lid": "l2",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei1991",
+            "relatedToTime": "t11",
+            "origin": "USER"
+        },
+        {
+            "lid": "l3",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei1989",
+            "relatedToTime": "t11",
+            "origin": "USER"
+        },
+        {
+            "lid": "l4",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei1992",
+            "relatedToTime": "t11",
+            "origin": "USER"
+        },
+        {
+            "lid": "l5",
+            "relType": "DURING",
+            "eventInstanceID": "ei1993",
+            "relatedToTime": "t31",
+            "origin": "USER"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l6",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei1989",
+            "subordinatedEventInstance": "ei1990"
+        }
+    ],
+    "alinks": []
+}

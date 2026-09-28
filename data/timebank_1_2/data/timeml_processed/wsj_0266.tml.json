@@ -1,0 +1,475 @@
+{
+    "file_name": "wsj_0266.tml",
+    "doc_text": "WSJ891101-0099 \n = 891101 \n 891101-0099. \n Letters to the Editor:\n@  Innovators Overlooked \n 11/01/89 \n WALL STREET JOURNAL (J) \n MUTUAL AND MONEY-MARKET FUNDS (FND) \n\n   I was pleased to note that your Oct. 23 Centennial Journal item recognized the money-fund concept as one of the significant events of the past century. \nActually, about two years ago, the Journal listed the creation of the money fund as one of the 10 most significant events in the world of finance in the 20th century. \nBut the Reserve Fund, America's first money fund, was not named, nor were the creators of the money-fund concept, Harry Brown and myself. \nWe innovated telephone redemptions, daily dividends, total elimination of share certificates and the constant $1 pershare pricing, all of which were painfully thought out and not the result of some inadvertence on the part of the SEC. \n\n   BRUCE R. BENT \n\n\n   President \n\n   The Reserve Fund \n\n   New York",
+    "tags": {
+        "t34": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t34",
+                "type": "DATE",
+                "value": "1989-11-01"
+            },
+            "text": "11/01/89",
+            "start": 93,
+            "end": 219,
+            "start_char": 93,
+            "end_char": 101
+        },
+        "e41": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e41",
+                "stem": "please"
+            },
+            "text": "pleased",
+            "start": 295,
+            "end": 357,
+            "start_char": 177,
+            "end_char": 184
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e2",
+                "stem": "note"
+            },
+            "text": "note",
+            "start": 361,
+            "end": 418,
+            "start_char": 188,
+            "end_char": 192
+        },
+        "t42": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t34",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t42",
+                "type": "DATE",
+                "value": "1989-10-23"
+            },
+            "text": "Oct. 23",
+            "start": 429,
+            "end": 563,
+            "start_char": 203,
+            "end_char": 210
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3",
+                "stem": "recognize"
+            },
+            "text": "recognized",
+            "start": 588,
+            "end": 658,
+            "start_char": 235,
+            "end_char": 245
+        },
+        "t39": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "endPoint": "t42",
+                "functionInDocument": "NONE",
+                "mod": "APPROX",
+                "temporalFunction": "false",
+                "tid": "t39",
+                "type": "DURATION",
+                "value": "P2Y"
+            },
+            "text": "about two years ago",
+            "start": 747,
+            "end": 900,
+            "start_char": 334,
+            "end_char": 353
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e4",
+                "stem": "list"
+            },
+            "text": "listed",
+            "start": 914,
+            "end": 975,
+            "start_char": 367,
+            "end_char": 373
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e5",
+                "stem": "creation"
+            },
+            "text": "creation",
+            "start": 980,
+            "end": 1046,
+            "start_char": 378,
+            "end_char": 386
+        },
+        "s24": {
+            "tag": "SIGNAL",
+            "attributes": {
+                "sid": "s24"
+            },
+            "text": "in",
+            "start": 1130,
+            "end": 1159,
+            "start_char": 470,
+            "end_char": 472
+        },
+        "t40": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "NONE",
+                "temporalFunction": "false",
+                "tid": "t40",
+                "type": "DATE",
+                "value": "19XX"
+            },
+            "text": "the 20th century",
+            "start": 1160,
+            "end": 1279,
+            "start_char": 473,
+            "end_char": 489
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9",
+                "stem": "name"
+            },
+            "text": "named",
+            "start": 1340,
+            "end": 1400,
+            "start_char": 550,
+            "end_char": 555
+        },
+        "e11": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e11",
+                "stem": "innovate"
+            },
+            "text": "innovated",
+            "start": 1479,
+            "end": 1548,
+            "start_char": 634,
+            "end_char": 643
+        },
+        "e29": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e29",
+                "stem": "redemption"
+            },
+            "text": "redemptions",
+            "start": 1559,
+            "end": 1632,
+            "start_char": 654,
+            "end_char": 665
+        },
+        "e30": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e30",
+                "stem": "elimination"
+            },
+            "text": "elimination",
+            "start": 1657,
+            "end": 1731,
+            "start_char": 690,
+            "end_char": 701
+        },
+        "e31": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e31",
+                "stem": "price"
+            },
+            "text": "pricing",
+            "start": 1783,
+            "end": 1847,
+            "start_char": 753,
+            "end_char": 760
+        },
+        "e15": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e15",
+                "stem": "think"
+            },
+            "text": "thought",
+            "start": 1877,
+            "end": 1939,
+            "start_char": 790,
+            "end_char": 797
+        },
+        "e32": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e32",
+                "stem": "inadvertence"
+            },
+            "text": "inadvertence",
+            "start": 1971,
+            "end": 2042,
+            "start_char": 829,
+            "end_char": 841
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e2",
+            "eiid": "ei124",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e29",
+            "eiid": "ei130",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e15",
+            "eiid": "ei133",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e41",
+            "eiid": "ei123",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e5",
+            "eiid": "ei127",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e32",
+            "eiid": "ei134",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "NEG",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e9",
+            "eiid": "ei128",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "NEG",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e4",
+            "eiid": "ei126",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e31",
+            "eiid": "ei132",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e11",
+            "eiid": "ei129",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e3",
+            "eiid": "ei125",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e30",
+            "eiid": "ei131",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        }
+    ],
+    "eiid2eventid": {
+        "ei124": "e2",
+        "ei130": "e29",
+        "ei133": "e15",
+        "ei123": "e41",
+        "ei127": "e5",
+        "ei134": "e32",
+        "ei128": "e9",
+        "ei126": "e4",
+        "ei132": "e31",
+        "ei129": "e11",
+        "ei125": "e3",
+        "ei131": "e30"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei123",
+            "relatedToTime": "t34"
+        },
+        {
+            "lid": "l2",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei125",
+            "relatedToEventInstance": "ei123"
+        },
+        {
+            "lid": "l3",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei125",
+            "relatedToTime": "t42"
+        },
+        {
+            "lid": "l4",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei126",
+            "relatedToEventInstance": "ei125"
+        },
+        {
+            "lid": "l5",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei127",
+            "relatedToTime": "t40",
+            "signalID": "s24"
+        },
+        {
+            "lid": "l6",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei128",
+            "relatedToEventInstance": "ei126"
+        },
+        {
+            "lid": "l8",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei129",
+            "relatedToTime": "t40",
+            "signalID": "s24"
+        },
+        {
+            "lid": "l9",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei129",
+            "relatedToEventInstance": "ei130"
+        },
+        {
+            "lid": "l10",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei129",
+            "relatedToEventInstance": "ei131"
+        },
+        {
+            "lid": "l11",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei129",
+            "relatedToEventInstance": "ei132"
+        },
+        {
+            "lid": "l12",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei134",
+            "relatedToEventInstance": "ei129"
+        },
+        {
+            "lid": "l13",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei133",
+            "relatedToEventInstance": "ei129"
+        },
+        {
+            "lid": "l14",
+            "relType": "BEGINS",
+            "eventInstanceID": "ei126",
+            "relatedToTime": "t39"
+        },
+        {
+            "lid": "l15",
+            "relType": "ENDS",
+            "eventInstanceID": "ei125",
+            "relatedToTime": "t39"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l21",
+            "relType": "FACTIVE",
+            "eventInstanceID": "ei129",
+            "subordinatedEventInstance": "ei132"
+        },
+        {
+            "lid": "l20",
+            "relType": "FACTIVE",
+            "eventInstanceID": "ei129",
+            "subordinatedEventInstance": "ei131"
+        },
+        {
+            "lid": "l19",
+            "relType": "FACTIVE",
+            "eventInstanceID": "ei129",
+            "subordinatedEventInstance": "ei130"
+        },
+        {
+            "lid": "l18",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei124",
+            "subordinatedEventInstance": "ei125"
+        },
+        {
+            "lid": "l16",
+            "relType": "FACTIVE",
+            "eventInstanceID": "ei123",
+            "subordinatedEventInstance": "ei124"
+        },
+        {
+            "lid": "l17",
+            "relType": "FACTIVE",
+            "eventInstanceID": "ei126",
+            "subordinatedEventInstance": "ei127"
+        }
+    ],
+    "alinks": []
+}

@@ -1,0 +1,226 @@
+{
+    "file_name": "wsj_0685.tml",
+    "doc_text": "WSJ891030-0010 \n = 891030 \n 891030-0010. \n CNW Acquisition Completed \n 10/30/89 \n WALL STREET JOURNAL (J) \n CNW \n TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)\nTRANSPORTATION, TRUCK AND SHIP LINES, RAILROADS (TRA) \n CHICAGO  \n\n   CNW Corp. said the final step in the acquisition of the company has been completed with the merger of CNW with a subsidiary of Chicago amp North Western Holdings Corp. \n\n   As reported, CNW agreed to be acquired by a group of investors led by Blackstone Capital Partners Limited Partnership for $50 a share, or about $950 million.",
+    "tags": {
+        "t11": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t11",
+                "type": "DATE",
+                "value": "1989-10-30"
+            },
+            "text": "10/30/89",
+            "start": 71,
+            "end": 197,
+            "start_char": 71,
+            "end_char": 79
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1"
+            },
+            "text": "said",
+            "start": 355,
+            "end": 401,
+            "start_char": 237,
+            "end_char": 241
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "acquisition",
+            "start": 424,
+            "end": 478,
+            "start_char": 264,
+            "end_char": 275
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e5"
+            },
+            "text": "completed",
+            "start": 503,
+            "end": 554,
+            "start_char": 300,
+            "end_char": 309
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6"
+            },
+            "text": "merger",
+            "start": 564,
+            "end": 613,
+            "start_char": 319,
+            "end_char": 325
+        },
+        "e13": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e13"
+            },
+            "text": "reported",
+            "start": 691,
+            "end": 742,
+            "start_char": 403,
+            "end_char": 411
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e7"
+            },
+            "text": "agreed",
+            "start": 748,
+            "end": 795,
+            "start_char": 417,
+            "end_char": 423
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9"
+            },
+            "text": "acquired",
+            "start": 802,
+            "end": 853,
+            "start_char": 430,
+            "end_char": 438
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e3",
+            "eiid": "ei54",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e1",
+            "eiid": "ei53",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e6",
+            "eiid": "ei56",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e9",
+            "eiid": "ei59",
+            "tense": "PASTPART",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e5",
+            "eiid": "ei55",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e13",
+            "eiid": "ei57",
+            "tense": "PASTPART",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e7",
+            "eiid": "ei58",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        }
+    ],
+    "eiid2eventid": {
+        "ei54": "e3",
+        "ei53": "e1",
+        "ei56": "e6",
+        "ei59": "e9",
+        "ei55": "e5",
+        "ei57": "e13",
+        "ei58": "e7"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei57",
+            "relatedToTime": "t11"
+        },
+        {
+            "lid": "l2",
+            "relType": "AFTER",
+            "timeID": "t11",
+            "relatedToEventInstance": "ei53"
+        },
+        {
+            "lid": "l3",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei54",
+            "relatedToEventInstance": "ei56"
+        },
+        {
+            "lid": "l4",
+            "relType": "IDENTITY",
+            "eventInstanceID": "ei59",
+            "relatedToEventInstance": "ei54"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l5",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei53",
+            "subordinatedEventInstance": "ei55"
+        },
+        {
+            "lid": "l6",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei57",
+            "subordinatedEventInstance": "ei58"
+        },
+        {
+            "lid": "l7",
+            "relType": "MODAL",
+            "eventInstanceID": "ei58",
+            "subordinatedEventInstance": "ei59"
+        }
+    ],
+    "alinks": [
+        {
+            "lid": "l8",
+            "relType": "CULMINATES",
+            "eventInstanceID": "ei55",
+            "relatedToEventInstance": "ei54"
+        }
+    ]
+}

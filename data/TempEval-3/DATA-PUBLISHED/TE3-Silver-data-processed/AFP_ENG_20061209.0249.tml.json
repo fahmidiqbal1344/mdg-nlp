@@ -1,0 +1,102 @@
+{
+    "file_name": "AFP_ENG_20061209.0249.tml",
+    "doc_text": "AFP_ENG_20061209.0249\n\nDOHA, Dec 9 , 2006, 2006\n\nHidayat takes gold over arch rival Lin\n\n\n\n\nOlympic champion Taufik Hidayat from Indonesia won the men's Asian Games singles badminton gold medal over arch rival Lin Dan of China 21-15, 22-20 here Saturday.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-12-09"
+            },
+            "text": "Dec 9 , 2006",
+            "start": 29,
+            "end": 158,
+            "start_char": 29,
+            "end_char": 41
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "won",
+            "start": 256,
+            "end": 302,
+            "start_char": 139,
+            "end_char": 142
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "singles",
+            "start": 325,
+            "end": 375,
+            "start_char": 165,
+            "end_char": 172
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-12-16"
+            },
+            "text": "Saturday",
+            "start": 448,
+            "end": 513,
+            "start_char": 245,
+            "end_char": 253
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

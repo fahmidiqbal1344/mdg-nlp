@@ -1,0 +1,283 @@
+{
+    "file_name": "CNN_20130321_821.tml",
+    "doc_text": "CNN_20130321_821\n\nMarch 21, 2013\n\nHow Obama has weaponized wit\n\n\n\nBarack Obama would make a great stand-up comic, not because he's the funniest president ever but because he uses jokes the same way many of us comedians do: as a weapon.\n\nTraditionally, the (intentionally) funny lines by our presidents have had one thing in common: They were self-deprecating. Sure, some presidents have used jokes to take jabs at their opponents, but not to the extent of Obama.\n\nDuring his tenure, he has increasingly unleashed biting comedic barbs against his critics and political adversaries. These jokes are intended to do more than simply entertain you. They have an agenda.\n\nObama's humor is often delivered the way a comedian dealing with a heckler would do it. He tries to undermine his opponents with it and get the crowd -- in this case the public -- on his side. I can assure you that having a crowd laugh at your critic/heckler is not only effective in dominating them, it's also very satisfying.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "DATE",
+                "value": "2013-03-21"
+            },
+            "text": "March 21, 2013",
+            "start": 18,
+            "end": 149,
+            "start_char": 18,
+            "end_char": 32
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "make",
+            "start": 202,
+            "end": 249,
+            "start_char": 85,
+            "end_char": 89
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e4"
+            },
+            "text": "had",
+            "start": 467,
+            "end": 508,
+            "start_char": 307,
+            "end_char": 310
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "used",
+            "start": 585,
+            "end": 632,
+            "start_char": 387,
+            "end_char": 391
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DURATION",
+                "value": "P5Y"
+            },
+            "text": "tenure",
+            "start": 716,
+            "end": 776,
+            "start_char": 475,
+            "end_char": 481
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8"
+            },
+            "text": "unleashed",
+            "start": 798,
+            "end": 850,
+            "start_char": 503,
+            "end_char": 512
+        },
+        "e1000": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e1000"
+            },
+            "text": "intended",
+            "start": 935,
+            "end": 987,
+            "start_char": 597,
+            "end_char": 605
+        },
+        "e1002": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e1002"
+            },
+            "text": "tries",
+            "start": 1139,
+            "end": 1188,
+            "start_char": 757,
+            "end_char": 762
+        },
+        "e1003": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1003"
+            },
+            "text": "undermine",
+            "start": 1192,
+            "end": 1247,
+            "start_char": 766,
+            "end_char": 775
+        },
+        "e20": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e20"
+            },
+            "text": "assure",
+            "start": 1337,
+            "end": 1385,
+            "start_char": 865,
+            "end_char": 871
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "modality": "would"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "OTHER",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei20",
+            "eventID": "e20",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1000",
+            "eventID": "e1000",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1002",
+            "eventID": "e1002",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei1003",
+            "eventID": "e1003",
+            "pos": "VERB",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei8": "e8",
+        "ei20": "e20",
+        "ei1000": "e1000",
+        "ei1002": "e1002",
+        "ei1003": "e1003"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "relType": "AFTER",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0"
+        },
+        {
+            "lid": "l4",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0"
+        },
+        {
+            "lid": "l5",
+            "relType": "AFTER",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei4"
+        },
+        {
+            "lid": "l6",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0"
+        },
+        {
+            "lid": "l7",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei4",
+            "relatedToEventInstance": "ei5"
+        },
+        {
+            "lid": "l12",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei8"
+        },
+        {
+            "lid": "l28",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei20",
+            "relatedToTime": "t0"
+        },
+        {
+            "lid": "l100",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei8",
+            "relatedToEventInstance": "ei20"
+        },
+        {
+            "lid": "l101",
+            "relType": "INCLUDES",
+            "timeID": "t1",
+            "relatedToTime": "t0"
+        },
+        {
+            "lid": "l102",
+            "relType": "INCLUDES",
+            "timeID": "t1",
+            "relatedToEventInstance": "ei8"
+        },
+        {
+            "lid": "l103",
+            "relType": "AFTER",
+            "eventInstanceID": "ei8",
+            "relatedToEventInstance": "ei1000"
+        },
+        {
+            "lid": "l104",
+            "relType": "AFTER",
+            "eventInstanceID": "ei1003",
+            "relatedToEventInstance": "ei1002"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

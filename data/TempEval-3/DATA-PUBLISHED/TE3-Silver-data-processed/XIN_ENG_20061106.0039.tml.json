@@ -1,0 +1,75 @@
+{
+    "file_name": "XIN_ENG_20061106.0039.tml",
+    "doc_text": "XIN_ENG_20061106.0039\n\nBEIJING, Nov. 6 , 2006 (Xinhua)\n\nOctober: safety superviser\n\n\n\n\nURGENT: 9,007 people killed in 53,173 accidents in China this October: safety superviser",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-06"
+            },
+            "text": "Nov. 6 , 2006",
+            "start": 32,
+            "end": 162,
+            "start_char": 32,
+            "end_char": 45
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "killed",
+            "start": 225,
+            "end": 274,
+            "start_char": 108,
+            "end_char": 114
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2007-10"
+            },
+            "text": "this October",
+            "start": 304,
+            "end": 370,
+            "start_char": 144,
+            "end_char": 156
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

@@ -1,0 +1,4 @@
+task,dimension,key1,key2,p_val,sig_val,better_model,better_f1,worse_model,worse_f1
+time,adversarial_prompt,t5,gpt2,0.25,,t5,0.7626,gpt2,0.7456
+time,adversarial_prompt,roberta,gpt2,0.01,*,roberta,0.7942,gpt2,0.7456
+time,adversarial_prompt,roberta,t5,0.11,,roberta,0.7942,t5,0.7626

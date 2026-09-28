@@ -1,0 +1,128 @@
+{
+    "file_name": "XIN_ENG_20051129.0117.tml",
+    "doc_text": "XIN_ENG_20051129.0117\n\nMEXICO CITY, Nov. 29 , 2005 (Xinhua)\n\nMexican soccer championship quarterfinal fixtures\n\n\n\n\nFollowing ar ethe fixtures from the Mexican championship Quarterfinal first leg soccer matches on Tuesday:\n\nQuarterfinal Apertura, first leg\n\nWednesday, November 30 (GMT)\n\nPachuca v Necaxa\n\nUAG   v Monterrey\n\nQuarterfinal Apertura, first leg\n\nThursday, December 1 (GMT)\n\nTigres  v America\n\nToluca  v Cruz Azul",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-11-29"
+            },
+            "text": "Nov. 29 , 2005",
+            "start": 36,
+            "end": 167,
+            "start_char": 36,
+            "end_char": 50
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "Following",
+            "start": 232,
+            "end": 284,
+            "start_char": 115,
+            "end_char": 124
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "matches",
+            "start": 362,
+            "end": 412,
+            "start_char": 202,
+            "end_char": 209
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-12-06"
+            },
+            "text": "Tuesday",
+            "start": 416,
+            "end": 480,
+            "start_char": 213,
+            "end_char": 220
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2005-11-30"
+            },
+            "text": "Wednesday, November 30",
+            "start": 517,
+            "end": 596,
+            "start_char": 257,
+            "end_char": 279
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "2005-12-01"
+            },
+            "text": "Thursday, December 1",
+            "start": 675,
+            "end": 752,
+            "start_char": 358,
+            "end_char": 378
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1",
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToEventInstance": "ei2",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

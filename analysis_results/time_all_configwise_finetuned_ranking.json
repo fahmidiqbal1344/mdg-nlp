@@ -1,0 +1,32 @@
+{
+    "base": {
+        "gpt2": 2.0,
+        "roberta": 1.0,
+        "t5": 1.5
+    },
+    "length": {
+        "gpt2": 2.0,
+        "roberta": 1.0,
+        "t5": 2.0
+    },
+    "adversarial": {
+        "gpt2": 2.0,
+        "roberta": 1.0,
+        "t5": 1.5
+    },
+    "domain": {
+        "gpt2": 3.0,
+        "roberta": 1.0,
+        "t5": 2.0
+    },
+    "adversarial_prompt": {
+        "gpt2": 2.0,
+        "roberta": 1.0,
+        "t5": 1.5
+    },
+    "domain_vocab": {
+        "gpt2": 2.0,
+        "roberta": 1.0,
+        "t5": 1.5
+    }
+}

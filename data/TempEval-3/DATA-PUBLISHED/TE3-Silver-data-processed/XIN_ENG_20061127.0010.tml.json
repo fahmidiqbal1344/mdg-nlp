@@ -1,0 +1,75 @@
+{
+    "file_name": "XIN_ENG_20061127.0010.tml",
+    "doc_text": "XIN_ENG_20061127.0010\n\nMADRID, Nov. 27 , 2006 (Xinhua)\n\nLeading goal scorers of Spanish first division soccer league\n\n\n\n\nFollowing are the leading goal scorers of the Spanish first division soccer league after Sunday's games:\n\n10 Ronaldinho (Barcelona)\n\n9 Diego Milito (Real Zaragoza)\n\nFrederic Kanoute (Sevilla)\n\n8 Ruud van Nistelrooy (Real Madrid)\n\n5 Fernando Morientes (Valencia)\n\nDavid Villa (Valencia)\n\nFernando Baiano (Celta Vigo)\n\nEidur Gudjohnsen (Barcelona)\n\nNikola Zigic (Racing Santander)\n\n4 Florent Sinama Pongolle (Recreativo Huelva)\n\nJavi Guerrero (Recreativo Huelva)\n\nNene (Celta Vigo)\n\nFrancisco Yeste (Athletic Bilbao)\n\nFernando Torres (Atletico Madrid)\n\nSamuel Eto'o (Barcelona)\n\nDiego Forlan (Villarreal)\n\nRaul Tamudo (Espanyol)",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2006-11-27"
+            },
+            "text": "Nov. 27 , 2006",
+            "start": 31,
+            "end": 162,
+            "start_char": 31,
+            "end_char": 45
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2006-12-03"
+            },
+            "text": "Sunday",
+            "start": 327,
+            "end": 390,
+            "start_char": 210,
+            "end_char": 216
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "games",
+            "start": 393,
+            "end": 441,
+            "start_char": 219,
+            "end_char": 224
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "NOUN",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei3": "e3"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

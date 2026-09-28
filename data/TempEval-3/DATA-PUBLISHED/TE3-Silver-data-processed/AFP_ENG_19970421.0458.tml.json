@@ -1,0 +1,269 @@
+{
+    "file_name": "AFP_ENG_19970421.0458.tml",
+    "doc_text": "AFP_ENG_19970421.0458\n\nNEW YORK, April 21 , 1997 (AFP)\n\nChina Energy begins trading on American Stock Exchange\n\n\n\n\nShares of China Energy Resources Corporation, which has a majority stake in a Chinese joint venture company, began trading on the American Stock Exchange here Monday.\n\nChina Energy, a holding company based in the British Virgin Islands, owns 80 percent of Mishan Hua Xing Coke Limited, a foreign equity joint venture operating in China.\n\nA local Chinese government entity controls the remaining 20 percent in the joint venture, which began operations in October 1995.\n\nChina Energy Resources opend at six dollars on 100 shares early Monday, followed by 4,900 shares at the same price.\n\nThe American Stock Exchange, the second largest US market after the New York Stock Exchange, specializes in small to medium-sized companies, notably in the oil and gas sector.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "1997-04-21"
+            },
+            "text": "April 21 , 1997",
+            "start": 33,
+            "end": 165,
+            "start_char": 33,
+            "end_char": 48
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e2"
+            },
+            "text": "began",
+            "start": 341,
+            "end": 388,
+            "start_char": 224,
+            "end_char": 229
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3"
+            },
+            "text": "trading",
+            "start": 389,
+            "end": 439,
+            "start_char": 230,
+            "end_char": 237
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "1997-04-21"
+            },
+            "text": "Monday",
+            "start": 476,
+            "end": 539,
+            "start_char": 274,
+            "end_char": 280
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e4"
+            },
+            "text": "owns",
+            "start": 611,
+            "end": 653,
+            "start_char": 352,
+            "end_char": 356
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e5"
+            },
+            "text": "controls",
+            "start": 784,
+            "end": 832,
+            "start_char": 487,
+            "end_char": 495
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "venture",
+            "start": 871,
+            "end": 921,
+            "start_char": 534,
+            "end_char": 541
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e8"
+            },
+            "text": "began",
+            "start": 929,
+            "end": 976,
+            "start_char": 549,
+            "end_char": 554
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "1995-10"
+            },
+            "text": "October 1995",
+            "start": 991,
+            "end": 1057,
+            "start_char": 569,
+            "end_char": 581
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "1997-04-21"
+            },
+            "text": "Monday",
+            "start": 1124,
+            "end": 1187,
+            "start_char": 648,
+            "end_char": 654
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10"
+            },
+            "text": "specializes",
+            "start": 1327,
+            "end": 1382,
+            "start_char": 794,
+            "end_char": 805
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei10",
+            "eventID": "e10",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei3",
+            "eventID": "e3",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei4",
+            "eventID": "e4",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei5",
+            "eventID": "e5",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei7",
+            "eventID": "e7",
+            "pos": "NOUN",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        },
+        {
+            "eiid": "ei8",
+            "eventID": "e8",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei10": "e10",
+        "ei3": "e3",
+        "ei2": "e2",
+        "ei4": "e4",
+        "ei5": "e5",
+        "ei7": "e7",
+        "ei8": "e8"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei8",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei4",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        },
+        {
+            "lid": "l3",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei8",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l4",
+            "eventInstanceID": "ei5",
+            "relatedToTime": "t0",
+            "relType": "SIMULTANEOUS"
+        },
+        {
+            "lid": "l5",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei4",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l6",
+            "eventInstanceID": "ei3",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l7",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei10",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l8",
+            "eventInstanceID": "ei5",
+            "relatedToEventInstance": "ei7",
+            "relType": "AFTER"
+        },
+        {
+            "lid": "l9",
+            "eventInstanceID": "ei2",
+            "relatedToEventInstance": "ei3",
+            "relType": "AFTER"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

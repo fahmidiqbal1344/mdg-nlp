@@ -1,0 +1,512 @@
+{
+    "file_name": "wsj_0709.tml",
+    "doc_text": "WSJ891027-0186 \n = 891027 \n 891027-0186. \n Service Corp. Earnings \n 10/27/89 \n WALL STREET JOURNAL (J) \n SRV \n EARNINGS (ERN) \n HOUSTON  \n\n   Service Corp. International said it expects to report net income of 15 cents a share for the third quarter. \nThe company said it expects to release third-quarter results in mid-November. \n\n   The funeral home and cemetery operator changed from a fiscal year to a calendar year in December. \nIn the comparable year-ago quarter, the second quarter ended Oct. 31, Service Corp. had a loss of about $12.5 million, or 26 cents a share, on revenue of $175.4 million. \nResults for that quarter included a $30 million, or 40 cents a share, write-down associated with the consolidation of a facility.",
+    "tags": {
+        "t25": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t25",
+                "type": "DATE",
+                "value": "1989-10-27"
+            },
+            "text": "10/27/89",
+            "start": 68,
+            "end": 194,
+            "start_char": 68,
+            "end_char": 76
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1"
+            },
+            "text": "said",
+            "start": 288,
+            "end": 334,
+            "start_char": 170,
+            "end_char": 174
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e2"
+            },
+            "text": "expects",
+            "start": 338,
+            "end": 385,
+            "start_char": 178,
+            "end_char": 185
+        },
+        "e4": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e4"
+            },
+            "text": "report",
+            "start": 389,
+            "end": 437,
+            "start_char": 189,
+            "end_char": 195
+        },
+        "e18": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e18"
+            },
+            "text": "income",
+            "start": 442,
+            "end": 487,
+            "start_char": 200,
+            "end_char": 206
+        },
+        "t26": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t25",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t26",
+                "type": "DATE",
+                "value": "1989-Q3"
+            },
+            "text": "the third quarter",
+            "start": 512,
+            "end": 653,
+            "start_char": 231,
+            "end_char": 248
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e5"
+            },
+            "text": "said",
+            "start": 668,
+            "end": 714,
+            "start_char": 263,
+            "end_char": 267
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e6"
+            },
+            "text": "expects",
+            "start": 718,
+            "end": 765,
+            "start_char": 271,
+            "end_char": 278
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8"
+            },
+            "text": "release",
+            "start": 769,
+            "end": 819,
+            "start_char": 282,
+            "end_char": 289
+        },
+        "s19": {
+            "tag": "SIGNAL",
+            "attributes": {
+                "sid": "s19"
+            },
+            "text": "in",
+            "start": 842,
+            "end": 871,
+            "start_char": 312,
+            "end_char": 314
+        },
+        "t27": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t25",
+                "functionInDocument": "NONE",
+                "mod": "MID",
+                "temporalFunction": "true",
+                "tid": "t27",
+                "type": "DATE",
+                "value": "1989-11"
+            },
+            "text": "mid-November",
+            "start": 872,
+            "end": 1018,
+            "start_char": 315,
+            "end_char": 327
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10"
+            },
+            "text": "changed",
+            "start": 1064,
+            "end": 1115,
+            "start_char": 373,
+            "end_char": 380
+        },
+        "s23": {
+            "tag": "SIGNAL",
+            "attributes": {
+                "sid": "s23"
+            },
+            "text": "in",
+            "start": 1154,
+            "end": 1183,
+            "start_char": 419,
+            "end_char": 421
+        },
+        "t28": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t25",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t28",
+                "type": "DATE",
+                "value": "1988-12"
+            },
+            "text": "December",
+            "start": 1184,
+            "end": 1316,
+            "start_char": 422,
+            "end_char": 430
+        },
+        "s24": {
+            "tag": "SIGNAL",
+            "attributes": {
+                "sid": "s24"
+            },
+            "text": "In",
+            "start": 1319,
+            "end": 1348,
+            "start_char": 433,
+            "end_char": 435
+        },
+        "t30": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t31",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t30",
+                "type": "DATE",
+                "value": "1988-Q2"
+            },
+            "text": "the comparable year-ago quarter",
+            "start": 1349,
+            "end": 1504,
+            "start_char": 436,
+            "end_char": 467
+        },
+        "t31": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t30",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t31",
+                "type": "DATE",
+                "value": "1988-Q2"
+            },
+            "text": "second quarter",
+            "start": 1510,
+            "end": 1648,
+            "start_char": 473,
+            "end_char": 487
+        },
+        "t32": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t30",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t32",
+                "type": "DATE",
+                "value": "1988-10-31"
+            },
+            "text": "Oct. 31",
+            "start": 1655,
+            "end": 1789,
+            "start_char": 494,
+            "end_char": 501
+        },
+        "e21": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e21"
+            },
+            "text": "had",
+            "start": 1805,
+            "end": 1852,
+            "start_char": 517,
+            "end_char": 520
+        },
+        "e13": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e13"
+            },
+            "text": "loss",
+            "start": 1855,
+            "end": 1903,
+            "start_char": 523,
+            "end_char": 527
+        },
+        "t33": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t31",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t33",
+                "type": "DATE",
+                "value": "1988-Q2"
+            },
+            "text": "that quarter",
+            "start": 1992,
+            "end": 2128,
+            "start_char": 616,
+            "end_char": 628
+        },
+        "e23": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e23"
+            },
+            "text": "write-down",
+            "start": 2174,
+            "end": 2228,
+            "start_char": 674,
+            "end_char": 684
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e1",
+            "eiid": "ei124",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e8",
+            "eiid": "ei130",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e13",
+            "eiid": "ei133",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e18",
+            "eiid": "ei127",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e5",
+            "eiid": "ei128",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e4",
+            "eiid": "ei126",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e21",
+            "eiid": "ei132",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e6",
+            "eiid": "ei129",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e2",
+            "eiid": "ei125",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e10",
+            "eiid": "ei131",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e23",
+            "eiid": "ei135",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        }
+    ],
+    "eiid2eventid": {
+        "ei124": "e1",
+        "ei130": "e8",
+        "ei133": "e13",
+        "ei127": "e18",
+        "ei128": "e5",
+        "ei126": "e4",
+        "ei132": "e21",
+        "ei129": "e6",
+        "ei125": "e2",
+        "ei131": "e10",
+        "ei135": "e23"
+    },
+    "tlinks": [
+        {
+            "lid": "l17",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei135",
+            "relatedToTime": "t33"
+        },
+        {
+            "lid": "l1",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei124",
+            "relatedToTime": "t25"
+        },
+        {
+            "lid": "l2",
+            "relType": "IDENTITY",
+            "eventInstanceID": "ei132",
+            "relatedToEventInstance": "ei133"
+        },
+        {
+            "lid": "l3",
+            "relType": "DURING",
+            "eventInstanceID": "ei127",
+            "relatedToTime": "t26"
+        },
+        {
+            "lid": "l4",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei128",
+            "relatedToTime": "t25"
+        },
+        {
+            "lid": "l5",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei133",
+            "relatedToTime": "t25"
+        },
+        {
+            "lid": "l6",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei130",
+            "relatedToTime": "t27",
+            "signalID": "s19"
+        },
+        {
+            "lid": "l7",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei129",
+            "relatedToTime": "t27"
+        },
+        {
+            "lid": "l8",
+            "relType": "ENDED_BY",
+            "eventInstanceID": "ei133",
+            "relatedToTime": "t32"
+        },
+        {
+            "lid": "l9",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei131",
+            "relatedToTime": "t28",
+            "signalID": "s23"
+        },
+        {
+            "lid": "l10",
+            "relType": "DURING",
+            "eventInstanceID": "ei133",
+            "relatedToTime": "t30",
+            "signalID": "s24"
+        },
+        {
+            "lid": "l11",
+            "relType": "DURING",
+            "eventInstanceID": "ei133",
+            "relatedToTime": "t31"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l12",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei124",
+            "subordinatedEventInstance": "ei125"
+        },
+        {
+            "lid": "l13",
+            "relType": "MODAL",
+            "eventInstanceID": "ei125",
+            "subordinatedEventInstance": "ei126"
+        },
+        {
+            "lid": "l14",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei126",
+            "subordinatedEventInstance": "ei127"
+        },
+        {
+            "lid": "l15",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei128",
+            "subordinatedEventInstance": "ei129"
+        },
+        {
+            "lid": "l16",
+            "relType": "MODAL",
+            "eventInstanceID": "ei129",
+            "subordinatedEventInstance": "ei130"
+        }
+    ],
+    "alinks": []
+}

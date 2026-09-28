@@ -1,0 +1,75 @@
+{
+    "file_name": "AFP_ENG_20051214.0639.tml",
+    "doc_text": "AFP_ENG_20051214.0639\n\nTOKYO, Dec 15 , 2005\n\nJapanese shares open lower\n\n\n\n\nJapanese share prices opened lower Thursday, with the benchmark Nikkei-225 index down 88.31 points, or 0.57 percent, to 15,376.27 in the first minutes of trading.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-12-15"
+            },
+            "text": "Dec 15 , 2005",
+            "start": 30,
+            "end": 160,
+            "start_char": 30,
+            "end_char": 43
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e1"
+            },
+            "text": "opened",
+            "start": 215,
+            "end": 264,
+            "start_char": 98,
+            "end_char": 104
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-12-15"
+            },
+            "text": "Thursday",
+            "start": 271,
+            "end": 336,
+            "start_char": 111,
+            "end_char": 119
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

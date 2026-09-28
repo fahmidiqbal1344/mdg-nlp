@@ -1,0 +1,4 @@
+task,dimension,key1,key2,p_val,sig_val,better_model,better_f1,worse_model,worse_f1
+event,domain,t5,gpt2,0.24,,gpt2,0.1761,t5,0.168
+event,domain,roberta,gpt2,0.18,,roberta,0.1875,gpt2,0.1761
+event,domain,roberta,t5,0.05,,roberta,0.1875,t5,0.168

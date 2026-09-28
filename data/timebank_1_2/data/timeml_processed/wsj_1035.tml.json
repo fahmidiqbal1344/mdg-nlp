@@ -1,0 +1,694 @@
+{
+    "file_name": "wsj_1035.tml",
+    "doc_text": "WSJ891026-0021 \n = 891026 \n 891026-0021. \n Business Brief -- Consolidated Freightways Inc.:\n@  Third-Quarter Net Fell 77%\n@  On Emery's Expected Loss \n 10/26/89 \n WALL STREET JOURNAL (J) \n CNF \n EARNINGS (ERN)\nTRANSPORTATION, TRUCK AND SHIP LINES, RAILROADS (TRA) \n\n   Consolidated Freightways Inc. reported a 77% drop in third-quarter net income, citing expected losses in its Emery Worldwide shipping business. \n\n   The Menlo Park, Calif., company said net was $7.4 million, or 22 cents a share, down from $32.3 million, or 86 cents a share, a year ago. \nRevenue totaled $1.01 billion, a 43% increase from $704.4 million, reflecting the company's acquisition of Emery earlier this year. \n\n   Profit also suffered because of \"intense\" discounting in its long-haul trucking business, the company said. \n\n   Analysts had expected Consolidated to post a slim profit, and the company's stock was down only 25 cents to $30.25 in New York Stock Exchange composite trading yesterday. \n\"They have to continue to tighten their belts,\" said Craig Kloner, an analyst at Goldman, Sachs amp Co.",
+    "tags": {
+        "t24": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t24",
+                "type": "DATE",
+                "value": "1989-10-26"
+            },
+            "text": "10/26/89",
+            "start": 152,
+            "end": 278,
+            "start_char": 152,
+            "end_char": 160
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1"
+            },
+            "text": "reported",
+            "start": 417,
+            "end": 467,
+            "start_char": 299,
+            "end_char": 307
+        },
+        "e28": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e28"
+            },
+            "text": "drop",
+            "start": 474,
+            "end": 522,
+            "start_char": 314,
+            "end_char": 318
+        },
+        "t25": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t24",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t25",
+                "type": "DATE",
+                "value": "1989-Q3"
+            },
+            "text": "third-quarter",
+            "start": 526,
+            "end": 663,
+            "start_char": 322,
+            "end_char": 335
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e2"
+            },
+            "text": "citing",
+            "start": 676,
+            "end": 724,
+            "start_char": 348,
+            "end_char": 354
+        },
+        "e30": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e30"
+            },
+            "text": "expected",
+            "start": 725,
+            "end": 774,
+            "start_char": 355,
+            "end_char": 363
+        },
+        "e29": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e29"
+            },
+            "text": "losses",
+            "start": 775,
+            "end": 825,
+            "start_char": 364,
+            "end_char": 370
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e5"
+            },
+            "text": "said",
+            "start": 905,
+            "end": 951,
+            "start_char": 450,
+            "end_char": 454
+        },
+        "e36": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e36"
+            },
+            "text": "$7.4",
+            "start": 960,
+            "end": 1003,
+            "start_char": 463,
+            "end_char": 467
+        },
+        "e37": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e37"
+            },
+            "text": "$32.3",
+            "start": 1044,
+            "end": 1088,
+            "start_char": 508,
+            "end_char": 513
+        },
+        "t26": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t25",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t26",
+                "type": "DATE",
+                "value": "1988-Q3"
+            },
+            "text": "a year ago",
+            "start": 1119,
+            "end": 1253,
+            "start_char": 544,
+            "end_char": 554
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e6"
+            },
+            "text": "totaled",
+            "start": 1264,
+            "end": 1309,
+            "start_char": 565,
+            "end_char": 572
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e7"
+            },
+            "text": "increase",
+            "start": 1331,
+            "end": 1382,
+            "start_char": 594,
+            "end_char": 602
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8"
+            },
+            "text": "reflecting",
+            "start": 1404,
+            "end": 1457,
+            "start_char": 624,
+            "end_char": 634
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e9"
+            },
+            "text": "acquisition",
+            "start": 1472,
+            "end": 1526,
+            "start_char": 649,
+            "end_char": 660
+        },
+        "t27": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t24",
+                "functionInDocument": "NONE",
+                "mod": "START",
+                "temporalFunction": "true",
+                "tid": "t27",
+                "type": "DATE",
+                "value": "1989"
+            },
+            "text": "earlier this year",
+            "start": 1536,
+            "end": 1686,
+            "start_char": 670,
+            "end_char": 687
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10"
+            },
+            "text": "suffered",
+            "start": 1705,
+            "end": 1757,
+            "start_char": 706,
+            "end_char": 714
+        },
+        "e11": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e11"
+            },
+            "text": "discounting",
+            "start": 1779,
+            "end": 1834,
+            "start_char": 736,
+            "end_char": 747
+        },
+        "e14": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e14"
+            },
+            "text": "said",
+            "start": 1883,
+            "end": 1930,
+            "start_char": 796,
+            "end_char": 800
+        },
+        "e15": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_STATE",
+                "eid": "e15"
+            },
+            "text": "expected",
+            "start": 1950,
+            "end": 1999,
+            "start_char": 820,
+            "end_char": 828
+        },
+        "e17": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e17"
+            },
+            "text": "post",
+            "start": 2016,
+            "end": 2064,
+            "start_char": 845,
+            "end_char": 849
+        },
+        "e35": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e35"
+            },
+            "text": "down",
+            "start": 2108,
+            "end": 2151,
+            "start_char": 893,
+            "end_char": 897
+        },
+        "t36": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t24",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t36",
+                "type": "DATE",
+                "value": "1989-10-25"
+            },
+            "text": "yesterday",
+            "start": 2221,
+            "end": 2357,
+            "start_char": 967,
+            "end_char": 976
+        },
+        "e20": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e20"
+            },
+            "text": "continue",
+            "start": 2374,
+            "end": 2425,
+            "start_char": 993,
+            "end_char": 1001
+        },
+        "e22": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e22"
+            },
+            "text": "tighten",
+            "start": 2429,
+            "end": 2480,
+            "start_char": 1005,
+            "end_char": 1012
+        },
+        "e23": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e23"
+            },
+            "text": "said",
+            "start": 2495,
+            "end": 2542,
+            "start_char": 1027,
+            "end_char": 1031
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e1",
+            "eiid": "ei1990",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e28",
+            "eiid": "ei1991",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e2",
+            "eiid": "ei1992",
+            "tense": "PRESPART",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e30",
+            "eiid": "ei1993",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "ADJECTIVE"
+        },
+        {
+            "eventID": "e29",
+            "eiid": "ei1994",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e5",
+            "eiid": "ei1995",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e6",
+            "eiid": "ei1999",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e7",
+            "eiid": "ei2000",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e8",
+            "eiid": "ei2001",
+            "tense": "PRESPART",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e9",
+            "eiid": "ei2002",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e10",
+            "eiid": "ei2003",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e11",
+            "eiid": "ei2004",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e14",
+            "eiid": "ei2005",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e15",
+            "eiid": "ei2006",
+            "tense": "PAST",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e17",
+            "eiid": "ei2007",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e35",
+            "eiid": "ei2008",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "ADJECTIVE"
+        },
+        {
+            "eventID": "e20",
+            "eiid": "ei2010",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB",
+            "modality": "have to"
+        },
+        {
+            "eventID": "e22",
+            "eiid": "ei2011",
+            "tense": "INFINITIVE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e23",
+            "eiid": "ei2012",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e36",
+            "eiid": "ei2013",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "OTHER"
+        },
+        {
+            "eventID": "e37",
+            "eiid": "ei2014",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "OTHER"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1990": "e1",
+        "ei1991": "e28",
+        "ei1992": "e2",
+        "ei1993": "e30",
+        "ei1994": "e29",
+        "ei1995": "e5",
+        "ei1999": "e6",
+        "ei2000": "e7",
+        "ei2001": "e8",
+        "ei2002": "e9",
+        "ei2003": "e10",
+        "ei2004": "e11",
+        "ei2005": "e14",
+        "ei2006": "e15",
+        "ei2007": "e17",
+        "ei2008": "e35",
+        "ei2010": "e20",
+        "ei2011": "e22",
+        "ei2012": "e23",
+        "ei2013": "e36",
+        "ei2014": "e37"
+    },
+    "tlinks": [
+        {
+            "lid": "l27",
+            "relType": "DURING",
+            "eventInstanceID": "ei2011",
+            "relatedToEventInstance": "ei2010"
+        },
+        {
+            "lid": "l26",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei2012",
+            "relatedToTime": "t36"
+        },
+        {
+            "lid": "l25",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei2006",
+            "relatedToTime": "t25"
+        },
+        {
+            "lid": "l24",
+            "relType": "IDENTITY",
+            "eventInstanceID": "ei2005",
+            "relatedToEventInstance": "ei1995"
+        },
+        {
+            "lid": "l23",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei2013",
+            "relatedToTime": "t24"
+        },
+        {
+            "lid": "l22",
+            "relType": "IDENTITY",
+            "eventInstanceID": "ei1995",
+            "relatedToEventInstance": "ei1990"
+        },
+        {
+            "lid": "l21",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei2014",
+            "relatedToEventInstance": "ei2013"
+        },
+        {
+            "lid": "l20",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei1993",
+            "relatedToEventInstance": "ei1990"
+        },
+        {
+            "lid": "l1",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei1990",
+            "relatedToTime": "t24"
+        },
+        {
+            "lid": "l2",
+            "relType": "INCLUDES",
+            "timeID": "t25",
+            "relatedToEventInstance": "ei1991"
+        },
+        {
+            "lid": "l3",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei1992",
+            "relatedToEventInstance": "ei1990"
+        },
+        {
+            "lid": "l4",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei2000",
+            "relatedToEventInstance": "ei1999"
+        },
+        {
+            "lid": "l5",
+            "relType": "AFTER",
+            "eventInstanceID": "ei2001",
+            "relatedToEventInstance": "ei2000"
+        },
+        {
+            "lid": "l6",
+            "relType": "AFTER",
+            "eventInstanceID": "ei2002",
+            "relatedToEventInstance": "ei2001"
+        },
+        {
+            "lid": "l7",
+            "relType": "INCLUDES",
+            "timeID": "t27",
+            "relatedToEventInstance": "ei2002"
+        },
+        {
+            "lid": "l8",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei2004",
+            "relatedToEventInstance": "ei2003"
+        },
+        {
+            "lid": "l9",
+            "relType": "INCLUDES",
+            "timeID": "t36",
+            "relatedToEventInstance": "ei2008"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l19",
+            "relType": "FACTIVE",
+            "eventInstanceID": "ei2001",
+            "subordinatedEventInstance": "ei2002"
+        },
+        {
+            "lid": "l18",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei1995",
+            "subordinatedEventInstance": "ei2013"
+        },
+        {
+            "lid": "l10",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei1990",
+            "subordinatedEventInstance": "ei1991"
+        },
+        {
+            "lid": "l11",
+            "relType": "MODAL",
+            "eventInstanceID": "ei1993",
+            "subordinatedEventInstance": "ei1994"
+        },
+        {
+            "lid": "l12",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei2005",
+            "subordinatedEventInstance": "ei2003"
+        },
+        {
+            "lid": "l13",
+            "relType": "MODAL",
+            "eventInstanceID": "ei2006",
+            "subordinatedEventInstance": "ei2007"
+        },
+        {
+            "lid": "l15",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei2012",
+            "subordinatedEventInstance": "ei2010"
+        },
+        {
+            "lid": "l16",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei1992",
+            "subordinatedEventInstance": "ei1994"
+        }
+    ],
+    "alinks": [
+        {
+            "lid": "l17",
+            "relType": "CONTINUES",
+            "eventInstanceID": "ei2010",
+            "relatedToEventInstance": "ei2011"
+        }
+    ]
+}

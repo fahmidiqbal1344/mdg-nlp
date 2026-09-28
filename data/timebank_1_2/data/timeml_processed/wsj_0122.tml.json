@@ -1,0 +1,350 @@
+{
+    "file_name": "wsj_0122.tml",
+    "doc_text": "WSJ891102-0069 \n = 891102 \n 891102-0069. \n Young's Market Co. to Merge \n 11/02/89 \n WALL STREET JOURNAL (J) \n TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) \n LOS ANGELES  \n\n   Young's Market Co., a wholesaler of spirits, wines and other goods, said it  will merge with a new corporation formed by the Underwood family, which controls Young's. \n\n   Under terms of the agreement, shareholders other than the Underwoods  will receive $3,500 a share at closing, which  is expected in December. \nThe Underwood family said that holders of more than a majority of the stock of the company  have approved the transaction by written consent.",
+    "tags": {
+        "t15": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t15",
+                "type": "DATE",
+                "value": "1989-11-02"
+            },
+            "text": "11/02/89 ",
+            "start": 73,
+            "end": 200,
+            "start_char": 73,
+            "end_char": 82
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 359,
+            "end": 416,
+            "start_char": 241,
+            "end_char": 245
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2",
+                "stem": "merge"
+            },
+            "text": "merge",
+            "start": 426,
+            "end": 487,
+            "start_char": 255,
+            "end_char": 260
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3",
+                "stem": "form"
+            },
+            "text": "formed",
+            "start": 511,
+            "end": 572,
+            "start_char": 284,
+            "end_char": 290
+        },
+        "e11": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e11",
+                "stem": "agreement"
+            },
+            "text": "agreement",
+            "start": 646,
+            "end": 716,
+            "start_char": 364,
+            "end_char": 373
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5",
+                "stem": "receive"
+            },
+            "text": "receive",
+            "start": 763,
+            "end": 828,
+            "start_char": 420,
+            "end_char": 427
+        },
+        "e6": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e6",
+                "stem": "close"
+            },
+            "text": "closing",
+            "start": 847,
+            "end": 910,
+            "start_char": 446,
+            "end_char": 453
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e8",
+                "stem": "expect"
+            },
+            "text": "expected",
+            "start": 922,
+            "end": 987,
+            "start_char": 465,
+            "end_char": 473
+        },
+        "t13": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t15",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t13",
+                "type": "DATE",
+                "value": "1989-12"
+            },
+            "text": "December",
+            "start": 991,
+            "end": 1123,
+            "start_char": 477,
+            "end_char": 485
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e9",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 1147,
+            "end": 1204,
+            "start_char": 509,
+            "end_char": 513
+        },
+        "e10": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e10",
+                "stem": "approve"
+            },
+            "text": "approved",
+            "start": 1276,
+            "end": 1343,
+            "start_char": 585,
+            "end_char": 593
+        },
+        "e14": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e14",
+                "stem": "transaction"
+            },
+            "text": "transaction",
+            "start": 1348,
+            "end": 1422,
+            "start_char": 598,
+            "end_char": 609
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e9",
+            "eiid": "ei88",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e11",
+            "eiid": "ei84",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e5",
+            "eiid": "ei85",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e8",
+            "eiid": "ei87",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e2",
+            "eiid": "ei82",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e14",
+            "eiid": "ei90",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e6",
+            "eiid": "ei86",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e1",
+            "eiid": "ei81",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e3",
+            "eiid": "ei83",
+            "tense": "PASTPART",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e10",
+            "eiid": "ei89",
+            "tense": "PRESENT",
+            "aspect": "PERFECTIVE",
+            "polarity": "POS",
+            "pos": "VERB"
+        }
+    ],
+    "eiid2eventid": {
+        "ei88": "e9",
+        "ei84": "e11",
+        "ei85": "e5",
+        "ei87": "e8",
+        "ei82": "e2",
+        "ei90": "e14",
+        "ei86": "e6",
+        "ei81": "e1",
+        "ei83": "e3",
+        "ei89": "e10"
+    },
+    "tlinks": [
+        {
+            "lid": "l15",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei84",
+            "relatedToTime": "t15"
+        },
+        {
+            "lid": "l14",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei87",
+            "relatedToTime": "t15"
+        },
+        {
+            "lid": "l1",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei90",
+            "relatedToEventInstance": "ei82"
+        },
+        {
+            "lid": "l2",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei89",
+            "relatedToEventInstance": "ei88"
+        },
+        {
+            "lid": "l3",
+            "relType": "SIMULTANEOUS",
+            "eventInstanceID": "ei88",
+            "relatedToEventInstance": "ei81"
+        },
+        {
+            "lid": "l4",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei81",
+            "relatedToTime": "t15"
+        },
+        {
+            "lid": "l5",
+            "relType": "INCLUDES",
+            "timeID": "t13",
+            "relatedToEventInstance": "ei86"
+        },
+        {
+            "lid": "l6",
+            "relType": "IAFTER",
+            "eventInstanceID": "ei85",
+            "relatedToEventInstance": "ei86"
+        },
+        {
+            "lid": "l7",
+            "relType": "AFTER",
+            "eventInstanceID": "ei82",
+            "relatedToEventInstance": "ei83"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l13",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei88",
+            "subordinatedEventInstance": "ei89"
+        },
+        {
+            "lid": "l12",
+            "relType": "MODAL",
+            "eventInstanceID": "ei87",
+            "subordinatedEventInstance": "ei86"
+        },
+        {
+            "lid": "l8",
+            "relType": "MODAL",
+            "eventInstanceID": "ei89",
+            "subordinatedEventInstance": "ei90"
+        },
+        {
+            "lid": "l10",
+            "relType": "MODAL",
+            "eventInstanceID": "ei84",
+            "subordinatedEventInstance": "ei85"
+        },
+        {
+            "lid": "l11",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei81",
+            "subordinatedEventInstance": "ei82"
+        }
+    ],
+    "alinks": []
+}

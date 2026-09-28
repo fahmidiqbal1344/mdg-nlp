@@ -1,0 +1,4 @@
+task,dimension,key1,key2,p_val,sig_val,better_model,better_f1,worse_model,worse_f1
+event,domain_vocab,t5,gpt2,0.0,***,gpt2,0.8439,t5,0.7048
+event,domain_vocab,roberta,gpt2,0.18,,roberta,0.8512,gpt2,0.8439
+event,domain_vocab,roberta,t5,0.0,***,roberta,0.8512,t5,0.7048

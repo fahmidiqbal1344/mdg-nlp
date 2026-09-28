@@ -1,0 +1,252 @@
+{
+    "file_name": "wsj_0650.tml",
+    "doc_text": "WSJ891030-0048 \n = 891030 \n 891030-0048. \n Sun Microsystems Debentures \n 10/30/89 \n WALL STREET JOURNAL (J) \n SUNW \n BOND MARKET NEWS (BON) \n MOUNTAIN VIEW, Calif.  \n\n   Sun Microsystems Inc., a computer maker, announced the effectiveness of its registration statement for $125 million of 6 3/8% convertible subordinated debentures due Oct. 15, 1999. \n\n   The company said the debentures are being issued at an issue price of $849 for each $1,000 principal amount and are convertible at any time prior to maturity at a conversion price of $25 a share. \n\n   The debentures are available through Goldman, Sachs amp Co.",
+    "tags": {
+        "t18": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t18",
+                "type": "DATE",
+                "value": "1989-10-30"
+            },
+            "text": "10/30/89",
+            "start": 73,
+            "end": 199,
+            "start_char": 73,
+            "end_char": 81
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1"
+            },
+            "text": "announced",
+            "start": 329,
+            "end": 380,
+            "start_char": 211,
+            "end_char": 220
+        },
+        "e13": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e13"
+            },
+            "text": "effectiveness",
+            "start": 385,
+            "end": 437,
+            "start_char": 225,
+            "end_char": 238
+        },
+        "e12": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e12"
+            },
+            "text": "due",
+            "start": 531,
+            "end": 573,
+            "start_char": 332,
+            "end_char": 335
+        },
+        "t14": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "NONE",
+                "temporalFunction": "false",
+                "tid": "t14",
+                "type": "DATE",
+                "value": "1999-10-15"
+            },
+            "text": "Oct. 15, 1999",
+            "start": 574,
+            "end": 696,
+            "start_char": 336,
+            "end_char": 349
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e3"
+            },
+            "text": "said",
+            "start": 715,
+            "end": 761,
+            "start_char": 368,
+            "end_char": 372
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e5"
+            },
+            "text": "issued",
+            "start": 787,
+            "end": 836,
+            "start_char": 398,
+            "end_char": 404
+        },
+        "e17": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e17"
+            },
+            "text": "convertible",
+            "start": 904,
+            "end": 954,
+            "start_char": 472,
+            "end_char": 483
+        },
+        "s15": {
+            "tag": "SIGNAL",
+            "attributes": {
+                "sid": "s15"
+            },
+            "text": "prior to",
+            "start": 967,
+            "end": 1002,
+            "start_char": 496,
+            "end_char": 504
+        },
+        "e16": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e16"
+            },
+            "text": "maturity",
+            "start": 1003,
+            "end": 1050,
+            "start_char": 505,
+            "end_char": 513
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e16",
+            "eiid": "ei63",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e17",
+            "eiid": "ei62",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "ADJECTIVE"
+        },
+        {
+            "eventID": "e3",
+            "eiid": "ei60",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e12",
+            "eiid": "ei59",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "ADJECTIVE"
+        },
+        {
+            "eventID": "e5",
+            "eiid": "ei61",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e1",
+            "eiid": "ei57",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e13",
+            "eiid": "ei58",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        }
+    ],
+    "eiid2eventid": {
+        "ei63": "e16",
+        "ei62": "e17",
+        "ei60": "e3",
+        "ei59": "e12",
+        "ei61": "e5",
+        "ei57": "e1",
+        "ei58": "e13"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei62",
+            "relatedToEventInstance": "ei63",
+            "signalID": "s15"
+        },
+        {
+            "lid": "l2",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei57",
+            "relatedToTime": "t18"
+        },
+        {
+            "lid": "l3",
+            "relType": "ENDED_BY",
+            "eventInstanceID": "ei59",
+            "relatedToTime": "t14"
+        },
+        {
+            "lid": "l4",
+            "relType": "IDENTITY",
+            "eventInstanceID": "ei60",
+            "relatedToEventInstance": "ei57"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l5",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei57",
+            "subordinatedEventInstance": "ei58"
+        },
+        {
+            "lid": "l6",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei57",
+            "subordinatedEventInstance": "ei59"
+        },
+        {
+            "lid": "l7",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei60",
+            "subordinatedEventInstance": "ei61"
+        },
+        {
+            "lid": "l8",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei60",
+            "subordinatedEventInstance": "ei62"
+        }
+    ],
+    "alinks": []
+}

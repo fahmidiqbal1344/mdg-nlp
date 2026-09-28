@@ -1,0 +1,153 @@
+{
+    "file_name": "XIN_ENG_20051119.0096.tml",
+    "doc_text": "XIN_ENG_20051119.0096\n\nMELBOURNE, Nov. 19 , 2005 (Xinhua)\n\nSchedule of Artistic Gymnastics Worlds\n\n\n\n\nFollowing is the competition schedule of the 2005 Artistic Gymnastics World Championships to kick off here on Tuesday:\nNovember 22: Men's qualifications\n\nNovember 23: Women's qualifications\n\nNovember 24: Men's all-around final\n\nNovember 25: Women's all-around final\n\nNovember 26: Apparatus finals, Men's - Floor, Pommel horse, Rings\n\nWomen's - Vault, Uneven bars\n\nNovember 27: Apparatus finals, Men's - Vault, Parallel bars, Horizontal bars; Women's - Balance beam, Floor",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "2005-11-19"
+            },
+            "text": "Nov. 19 , 2005",
+            "start": 34,
+            "end": 165,
+            "start_char": 34,
+            "end_char": 48
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e2"
+            },
+            "text": "kick",
+            "start": 312,
+            "end": 359,
+            "start_char": 195,
+            "end_char": 199
+        },
+        "t2": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2005-11-19"
+            },
+            "text": "Tuesday:",
+            "start": 372,
+            "end": 437,
+            "start_char": 212,
+            "end_char": 220
+        },
+        "t3": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t3",
+                "type": "DATE",
+                "value": "2005-11-22"
+            },
+            "text": "November 22",
+            "start": 438,
+            "end": 506,
+            "start_char": 221,
+            "end_char": 232
+        },
+        "t4": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t4",
+                "type": "DATE",
+                "value": "2005-11-23"
+            },
+            "text": "November 23",
+            "start": 530,
+            "end": 598,
+            "start_char": 256,
+            "end_char": 267
+        },
+        "t5": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t5",
+                "type": "DATE",
+                "value": "2005-11-24"
+            },
+            "text": "November 24",
+            "start": 624,
+            "end": 692,
+            "start_char": 293,
+            "end_char": 304
+        },
+        "t6": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t6",
+                "type": "DATE",
+                "value": "2005-11-25"
+            },
+            "text": "November 25",
+            "start": 718,
+            "end": 786,
+            "start_char": 330,
+            "end_char": 341
+        },
+        "t7": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t7",
+                "type": "DATE",
+                "value": "2005-11-26"
+            },
+            "text": "November 26",
+            "start": 814,
+            "end": 882,
+            "start_char": 369,
+            "end_char": 380
+        },
+        "t8": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t8",
+                "type": "DATE",
+                "value": "2005-11-27"
+            },
+            "text": "November 27",
+            "start": 968,
+            "end": 1036,
+            "start_char": 466,
+            "end_char": 477
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei2",
+            "eventID": "e2",
+            "pos": "VERB",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei2": "e2"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t2",
+            "relType": "IS_INCLUDED"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei2",
+            "relatedToTime": "t0",
+            "relType": "INCLUDES"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

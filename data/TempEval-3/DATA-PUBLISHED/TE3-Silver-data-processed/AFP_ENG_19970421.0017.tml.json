@@ -1,0 +1,75 @@
+{
+    "file_name": "AFP_ENG_19970421.0017.tml",
+    "doc_text": "AFP_ENG_19970421.0017\n\nNEW DELHI, April 21 , 1997 (AFP)\n\nBULLETIN Gujral sworn in as Indian PM\n\n\n\n\nInder Kumar Gujral was sworn in as India's 12th prime minister here Monday.",
+    "tags": {
+        "t0": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t0",
+                "type": "TIME",
+                "value": "1997-04-21"
+            },
+            "text": "April 21 , 1997",
+            "start": 34,
+            "end": 166,
+            "start_char": 34,
+            "end_char": 49
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1"
+            },
+            "text": "sworn",
+            "start": 239,
+            "end": 286,
+            "start_char": 122,
+            "end_char": 127
+        },
+        "t1": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "1997-04-21"
+            },
+            "text": "Monday",
+            "start": 326,
+            "end": 389,
+            "start_char": 167,
+            "end_char": 173
+        }
+    },
+    "event_tags": [
+        {
+            "eiid": "ei1",
+            "eventID": "e1",
+            "pos": "VERB",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS"
+        }
+    ],
+    "eiid2eventid": {
+        "ei1": "e1"
+    },
+    "tlinks": [
+        {
+            "lid": "l1",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t0",
+            "relType": "BEFORE"
+        },
+        {
+            "lid": "l2",
+            "eventInstanceID": "ei1",
+            "relatedToTime": "t1",
+            "relType": "IS_INCLUDED"
+        }
+    ],
+    "slinks": [],
+    "alinks": []
+}

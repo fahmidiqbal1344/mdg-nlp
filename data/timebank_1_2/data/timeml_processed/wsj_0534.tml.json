@@ -1,0 +1,441 @@
+{
+    "file_name": "wsj_0534.tml",
+    "doc_text": "WSJ891030-0167 \n = 891030 \n 891030-0167. \n Conseco to Redeem Preferred \n 10/30/89 \n WALL STREET JOURNAL (J) \n CNC \n BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK) \n CARMEL, Ind.  \n\n   Conseco Inc. said it is calling for the redemption on Dec. 7 of all the 800,000 remaining shares outstanding of its $1.875 Series A convertible preferred stock at $26.805 a share. \n\n   The insurance concern said all conversion rights on the stock will terminate on Nov. 30. \nUntil then, Conseco said the stock remains convertible into common stock at the rate of 1.439 shares of common stock for each share of preferred stock, which is equivalent to a conversion price of $17.50 a common share. \nIn New York Stock Exchange trading Friday, Conseco closed at $19.50, down 25 cents.",
+    "tags": {
+        "t14": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "functionInDocument": "CREATION_TIME",
+                "temporalFunction": "false",
+                "tid": "t14",
+                "type": "DATE",
+                "value": "1989-10-30"
+            },
+            "text": "10/30/89",
+            "start": 73,
+            "end": 199,
+            "start_char": 73,
+            "end_char": 81
+        },
+        "e1": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e1",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 309,
+            "end": 366,
+            "start_char": 191,
+            "end_char": 195
+        },
+        "e2": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "I_ACTION",
+                "eid": "e2",
+                "stem": "call"
+            },
+            "text": "calling",
+            "start": 373,
+            "end": 433,
+            "start_char": 202,
+            "end_char": 209
+        },
+        "e3": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e3",
+                "stem": "redemption"
+            },
+            "text": "redemption",
+            "start": 442,
+            "end": 513,
+            "start_char": 218,
+            "end_char": 228
+        },
+        "s13": {
+            "tag": "SIGNAL",
+            "attributes": {
+                "sid": "s13"
+            },
+            "text": "on",
+            "start": 514,
+            "end": 543,
+            "start_char": 229,
+            "end_char": 231
+        },
+        "t15": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t14",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t15",
+                "type": "DATE",
+                "value": "1989-12-07"
+            },
+            "text": "Dec. 7",
+            "start": 544,
+            "end": 677,
+            "start_char": 232,
+            "end_char": 238
+        },
+        "e5": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e5",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 824,
+            "end": 881,
+            "start_char": 385,
+            "end_char": 389
+        },
+        "e16": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e16",
+                "stem": "rights"
+            },
+            "text": "rights",
+            "start": 897,
+            "end": 956,
+            "start_char": 405,
+            "end_char": 411
+        },
+        "e7": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "ASPECTUAL",
+                "eid": "e7",
+                "stem": "terminate"
+            },
+            "text": "terminate",
+            "start": 975,
+            "end": 1043,
+            "start_char": 430,
+            "end_char": 439
+        },
+        "s17": {
+            "tag": "SIGNAL",
+            "attributes": {
+                "sid": "s17"
+            },
+            "text": "on",
+            "start": 1044,
+            "end": 1073,
+            "start_char": 440,
+            "end_char": 442
+        },
+        "t18": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t14",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t18",
+                "type": "DATE",
+                "value": "1989-11-30"
+            },
+            "text": "Nov. 30",
+            "start": 1074,
+            "end": 1208,
+            "start_char": 443,
+            "end_char": 450
+        },
+        "s21": {
+            "tag": "SIGNAL",
+            "attributes": {
+                "sid": "s21"
+            },
+            "text": "Until",
+            "start": 1211,
+            "end": 1243,
+            "start_char": 453,
+            "end_char": 458
+        },
+        "t22": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t18",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t22",
+                "type": "DATE",
+                "value": "1989-11-30"
+            },
+            "text": "then",
+            "start": 1244,
+            "end": 1375,
+            "start_char": 459,
+            "end_char": 463
+        },
+        "e8": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "REPORTING",
+                "eid": "e8",
+                "stem": "say"
+            },
+            "text": "said",
+            "start": 1385,
+            "end": 1442,
+            "start_char": 473,
+            "end_char": 477
+        },
+        "e9": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e9",
+                "stem": "remains"
+            },
+            "text": "remains",
+            "start": 1453,
+            "end": 1513,
+            "start_char": 488,
+            "end_char": 495
+        },
+        "t19": {
+            "tag": "TIMEX3",
+            "attributes": {
+                "anchorTimeID": "t14",
+                "functionInDocument": "NONE",
+                "temporalFunction": "true",
+                "tid": "t19",
+                "type": "DATE",
+                "value": "1989-10-27"
+            },
+            "text": "Friday",
+            "start": 1727,
+            "end": 1860,
+            "start_char": 709,
+            "end_char": 715
+        },
+        "e12": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "OCCURRENCE",
+                "eid": "e12",
+                "stem": "close"
+            },
+            "text": "closed",
+            "start": 1870,
+            "end": 1933,
+            "start_char": 725,
+            "end_char": 731
+        },
+        "e20": {
+            "tag": "EVENT",
+            "attributes": {
+                "class": "STATE",
+                "eid": "e20",
+                "stem": "$19.50"
+            },
+            "text": "$19.50",
+            "start": 1937,
+            "end": 1996,
+            "start_char": 735,
+            "end_char": 741
+        }
+    },
+    "event_tags": [
+        {
+            "eventID": "e2",
+            "eiid": "ei88",
+            "tense": "PRESENT",
+            "aspect": "PROGRESSIVE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e9",
+            "eiid": "ei94",
+            "tense": "PRESENT",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e16",
+            "eiid": "ei91",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        },
+        {
+            "eventID": "e1",
+            "eiid": "ei87",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e7",
+            "eiid": "ei92",
+            "tense": "FUTURE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e20",
+            "eiid": "ei96",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "OTHER"
+        },
+        {
+            "eventID": "e5",
+            "eiid": "ei90",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e8",
+            "eiid": "ei93",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e12",
+            "eiid": "ei95",
+            "tense": "PAST",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "VERB"
+        },
+        {
+            "eventID": "e3",
+            "eiid": "ei89",
+            "tense": "NONE",
+            "aspect": "NONE",
+            "polarity": "POS",
+            "pos": "NOUN"
+        }
+    ],
+    "eiid2eventid": {
+        "ei88": "e2",
+        "ei94": "e9",
+        "ei91": "e16",
+        "ei87": "e1",
+        "ei92": "e7",
+        "ei96": "e20",
+        "ei90": "e5",
+        "ei93": "e8",
+        "ei95": "e12",
+        "ei89": "e3"
+    },
+    "tlinks": [
+        {
+            "lid": "l15",
+            "relType": "IDENTITY",
+            "eventInstanceID": "ei93",
+            "relatedToEventInstance": "ei90"
+        },
+        {
+            "lid": "l1",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei90",
+            "relatedToTime": "t14"
+        },
+        {
+            "lid": "l2",
+            "relType": "IDENTITY",
+            "eventInstanceID": "ei87",
+            "relatedToEventInstance": "ei90"
+        },
+        {
+            "lid": "l3",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei92",
+            "relatedToTime": "t18",
+            "signalID": "s17"
+        },
+        {
+            "lid": "l4",
+            "relType": "ENDED_BY",
+            "eventInstanceID": "ei91",
+            "relatedToTime": "t18"
+        },
+        {
+            "lid": "l5",
+            "relType": "ENDED_BY",
+            "eventInstanceID": "ei94",
+            "relatedToTime": "t22",
+            "signalID": "s21"
+        },
+        {
+            "lid": "l6",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei95",
+            "relatedToTime": "t19"
+        },
+        {
+            "lid": "l7",
+            "relType": "INCLUDES",
+            "eventInstanceID": "ei95",
+            "relatedToEventInstance": "ei96"
+        },
+        {
+            "lid": "l8",
+            "relType": "IS_INCLUDED",
+            "eventInstanceID": "ei89",
+            "relatedToTime": "t15",
+            "signalID": "s13"
+        },
+        {
+            "lid": "l9",
+            "relType": "BEFORE",
+            "eventInstanceID": "ei87",
+            "relatedToTime": "t14"
+        }
+    ],
+    "slinks": [
+        {
+            "lid": "l10",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei90",
+            "subordinatedEventInstance": "ei92"
+        },
+        {
+            "lid": "l11",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei93",
+            "subordinatedEventInstance": "ei94"
+        },
+        {
+            "lid": "l12",
+            "relType": "MODAL",
+            "eventInstanceID": "ei88",
+            "subordinatedEventInstance": "ei89"
+        },
+        {
+            "lid": "l13",
+            "relType": "EVIDENTIAL",
+            "eventInstanceID": "ei87",
+            "subordinatedEventInstance": "ei88"
+        }
+    ],
+    "alinks": [
+        {
+            "lid": "l14",
+            "relType": "TERMINATES",
+            "eventInstanceID": "ei92",
+            "relatedToEventInstance": "ei91"
+        }
+    ]
+}
